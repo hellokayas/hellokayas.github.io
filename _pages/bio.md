@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Dartmouth College, 2025 (expected)
-* Masters of Mathematics(MMAth), Indian Statistical Institute(Kolkata), 2020
+* Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
 
 Internships
