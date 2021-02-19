@@ -4,10 +4,7 @@ main:
     url: /bio/
 
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/     
+    url: /publications/   
     
   - title: "Contact"
     url: /contact/
