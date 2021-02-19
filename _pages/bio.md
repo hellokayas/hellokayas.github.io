@@ -63,6 +63,13 @@ Teaching Assistantships
 
 * Analysis II TA, Prof. Sunder Sobers, Chennai Mathematical Institute, 2017
 
+Talks
+======
+
+* 2017 - A Variant of Large Sieve, Venue: Institute of Mathematical Sciences
+* 2017 - Roth's Theorem, Venue: Institute of Mathematical Sciences
+* 2016 - Introduction to Cryptography, Venue: Chennai Mathematical Institute
+
 References
 ======
 * Sourav Chakraborty, ISI Kolkata
