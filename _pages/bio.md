@@ -38,7 +38,7 @@ Master's Project
 
 Undergraduate Project
 ======
-* Adviser: [Ramachandran Balasubramanian],(https://www.imsc.res.in/~balu/) [IMSc],(https://www.imsc.res.in/)
+* Adviser: [Ramachandran Balasubramanian](https://www.imsc.res.in/~balu/), [IMSc](https://www.imsc.res.in/)
 * Project: Analytic Number Theory
 
 Honors and Awards
@@ -72,7 +72,7 @@ Talks
 
 References
 ======
-* Sourav Chakraborty, ISI Kolkata
+* [Sourav Chakraborty](https://www.isical.ac.in/~sourav/), ISI Kolkata
 
 * [Mridul Nandi](https://www.isical.ac.in/~mridul/), ISI Kolkata
 
