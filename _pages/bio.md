@@ -48,6 +48,7 @@ Honors and Awards
 * Chess Award, 2018
 * Science and Engineering Research Board International Travel Award, Department of Science and Technology, 2017
 * Top 20 in the Higher Secondary Examination, 2015
+* Mathematical Talent Reward Program Award, Indian Statistical Institute, 2014
 * Achievement Cum Diagnostic Test in Mathematics Gold Medalist, 2013
 
 Technical and Language Skills
