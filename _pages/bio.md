@@ -57,3 +57,20 @@ Technical and Language Skills
 * Haskell
 * Matlab, Latex
 * Fluent in English and Bengali(Native)
+
+Teaching Assistantships
+======
+
+* Analysis II TA, Prof. Sunder Sobers, Chennai Mathematical Institute, 2017
+
+References
+======
+* Sourav Chakraborty, ISI Kolkata
+
+* [Mridul Nandi](https://www.isical.ac.in/~mridul/), ISI Kolkata
+
+* [Neena Gupta](https://en.wikipedia.org/wiki/Neena_Gupta_(mathematician)), Indian Statistical Institute(Kolkata)
+
+* [RV Ramamoorthie](https://www.stt.msu.edu/~ramamoor/), Michigan State University
+
+* [Krishna Hanumanthu](https://www.cmi.ac.in/~krishna/), Chennai Mathematical Institute
