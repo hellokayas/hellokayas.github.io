@@ -9,8 +9,5 @@ location: "Chennai, India"
 
 Prof. [Sunder Sobers](https://scholar.google.co.in/citations?user=_y7R15wAAAAJ&hl=en) taught the course.
 
-Books followed
-======
-
 * Introduction to Real Analysis Book by Robert G. Bartle
 * Principles of mathematical analysis Textbook by Walter Rudin
