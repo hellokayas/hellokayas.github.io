@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a first year Ph.D. student in the [Department of Computer Science](https://web.cs.dartmouth.edu/) at Dartmouth College. I work at Dartmouth College Security and Artificial Intelligence Lab, advised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). Here is a copy of my Curriculum Vitae.
+* I am a first year Ph.D. student in the [Department of Computer Science](https://web.cs.dartmouth.edu/) at Dartmouth College. I work at Dartmouth College Security and Artificial Intelligence Lab, advised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). Here is a copy of my [Curriculum Vitae](https://github.com/hellokayas/hellokayas.github.io/blob/master/files/Curriculum_Vitae.pdf).
 * My primary areas of research are Machine Learning and Data Mining.
 * I completed my Masters of Mathematics(MMath) from [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), Kolkata, India.
 * I completed my undergraduate studies(Bsc dual hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/), India.
