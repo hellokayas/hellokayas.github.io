@@ -34,6 +34,7 @@ Internships
 
 Master's Project
 ======
+* Adviser: [Sourav Chakraborty](https://www.isical.ac.in/~sourav/),ISI Kolkata
 * Markov Chains & Monte Carlo Methods and FPRAS for bipartite graphs. Notes used are [here](https://www.springer.com/gp/book/9783764369460) and [here](https://people.eecs.berkeley.edu/~sinclair/perm.pdf).
 
 Undergraduate Project
