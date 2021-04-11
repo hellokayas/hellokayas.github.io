@@ -19,10 +19,6 @@ redirect_from:
 Recent News
 ------
 
+* Mar, 2020 - I arrived on campus. I have started my Spring term, 2021
+
 * Feb, 2020 - I will be coming to campus on March, 2021. I will start from the Spring Semester, 2021.
-
-* Jan, 2021 - I received my Masters degree and transcripts from Indian Statistical Institute.
-
-* Sept, 2020 - I have been working remotely on my first project, I will be coming to campus early next year.
-
-* June, 2020 - I completed my MMath course work from Indian Statistical Institute.
