@@ -19,6 +19,6 @@ redirect_from:
 Recent News
 ------
 
-* Mar, 2020 - I arrived on campus. I have started my Spring term, 2021
+* Mar, 2021 - I arrived on campus. I have started my Spring term, 2021
 
-* Feb, 2020 - I will be coming to campus on March, 2021. I will start from the Spring Semester, 2021.
+* Feb, 2021 - I will be coming to campus on March, 2021. I will start from the Spring Semester, 2021.
