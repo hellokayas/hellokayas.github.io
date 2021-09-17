@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Dartmouth College, 2025 (expected)
+* Ph.D in Computer Science, Northwestern University, 2021-Present
 * Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
 
@@ -31,6 +31,11 @@ Internships
   * Indian Statistical Institute, Kolkata, 2016
   * Project: Lattice Cryptography
   * Supervisor: [Rishiraj Bhattacharyya](http://www.niser.ac.in/~rishi/)
+
+Courses Completed at Dartmouth
+======
+* Spring 2021: Topics in Probability
+* Spring 2021: Randomized Algorithms
 
 Master's Project
 ======
