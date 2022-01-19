@@ -19,5 +19,6 @@ redirect_from:
 Recent News
 ------
 
-* Sept, 2021 - I transfered from Dartmouth College to Northwestern University
+* Jan, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: Submitted to Transactions on Intelligent Systems and Technology
 
+* Judicial Support Tool: Finding the k-Most Probable JudicialWorlds: Submitted to IJCAI-ECAI 2022

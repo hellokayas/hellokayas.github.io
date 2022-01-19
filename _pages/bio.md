@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Northwestern University, 2021-Present
+* Ph.D in Computer Science, Dartmouth College, 2020(Sept)-2021(Sept)
 * Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
 
@@ -31,6 +32,12 @@ Internships
   * Indian Statistical Institute, Kolkata, 2016
   * Project: Lattice Cryptography
   * Supervisor: [Rishiraj Bhattacharyya](http://www.niser.ac.in/~rishi/)
+
+Courses Completed at Northwestern
+======
+* Fall 2021: Mechanism Design
+* Winter 2022: Graduate Algorithms
+* Winter 2022: Foundations of Quantum Computation
 
 Courses Completed at Dartmouth
 ======
@@ -79,6 +86,8 @@ Talks
 
 References
 ======
+* [VS Subrahmanian](https://vssubrah.github.io/), Northwestern University (PhD Adviser)
+
 * [Sourav Chakraborty](https://www.isical.ac.in/~sourav/), ISI Kolkata
 
 * [Mridul Nandi](https://www.isical.ac.in/~mridul/), ISI Kolkata
