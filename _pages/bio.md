@@ -38,6 +38,9 @@ Courses Completed at Northwestern
 * Fall 2021: Mechanism Design
 * Winter 2022: Graduate Algorithms
 * Winter 2022: Foundations of Quantum Computation
+* Spring 2022: Theory of Computational Complexity
+* Spring 2022: Combinatorial Optimization
+* Summer 2022: Advanced Graphics
 
 Courses Completed at Dartmouth
 ======
