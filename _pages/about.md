@@ -19,5 +19,5 @@ redirect_from:
 Recent News
 ------
 
-* July, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: Best Paper Award at [DASC/PiCOM/CBDCom/CyberSciTech22](http://cyber-science.org/2022/cbdcom/)
+* September, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: Best Paper Award at [DASC/PiCOM/CBDCom/CyberSciTech22](http://cyber-science.org/2022/cbdcom/)
 
