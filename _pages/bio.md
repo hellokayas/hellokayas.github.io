@@ -35,12 +35,18 @@ Internships
 
 Courses Completed at Northwestern
 ======
-* Fall 2021: Mechanism Design
-* Winter 2022: Graduate Algorithms
-* Winter 2022: Foundations of Quantum Computation
-* Spring 2022: Theory of Computational Complexity
-* Spring 2022: Combinatorial Optimization
-* Summer 2022: Advanced Graphics
+* 2021: Mechanism Design
+* 2022: Graduate Algorithms
+* 2022: Foundations of Quantum Computation
+* 2022: Theory of Computational Complexity
+* 2022: Combinatorial Optimization
+* 2022: Advanced Graphics
+* 2022: Logic in Artificial Intelligence, Northwestern University
+* 2022: Machine Learning, Northwestern University
+* 2022: Introduction to Data Science Pipeline, Northwestern University
+* 2022: Graduate Course on Design and Analysis of Algorithms, Northwestern University
+* 2022: Combinatorial Optimization, Northwestern University
+* 2022: Theory of Computational Complexity, Northwestern University
 
 Courses Completed at Dartmouth
 ======
@@ -60,6 +66,7 @@ Undergraduate Project
 Honors and Awards
 ======
 
+* Best Paper Award, The 20th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2022)
 * [International Youth Math Challenge](https://iymc.info/en/) organized by Indian Institute of Technology, 2019
 * Chess Award, 2018
 * Science and Engineering Research Board International Travel Award, Department of Science and Technology, 2017
