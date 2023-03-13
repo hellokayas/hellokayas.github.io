@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a Ph.D. student in the [Department of Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at Northwestern University. I started my PhD at Dartmouth College in Spring 2021, but transferred to Northwestern University, where I started my PhD from fall 2021. 
-* I work in Computer Science and my office is on the third floor of [Seeley G. Mudd building](https://www.library.northwestern.edu/libraries-collections/mudd-library/). Currently I work with [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/). 
+* I work in Computer Science and my office is on the third floor of [Seeley G. Mudd building](https://www.library.northwestern.edu/libraries-collections/mudd-library/). Currently I work with [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/). Here is a copy of my (maybe not updated) [Curriculum Vitae](https://hellokayas.github.io/files/CV.pdf)
 * My primary areas of research is Design and Analysis of algorithms.  I am broadly interested in theoretical computer science, and machine learning. I am currently in working on some approximation algorithm problems related to corelation clustering and also problems in combinatorial optimization greatly interest me.
 * As secondary interest, I like to mention Few-Shot Learning, theoretical guarantees related to consistency in probabilistic methods and community recoveries in stochastic block models.
 * I have completed my PhD(also Masters in CS) course requirements in Fall 2022 and was awarded the Masters degree. I have not completed my PhD qualification exam yet.
