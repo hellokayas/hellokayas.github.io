@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Northwestern University, 2021-Present
-* Ph.D in Computer Science, Dartmouth College, 2020(Sept)-2021(Sept)
+* Masters in Computer Science, Northwestern University, December 2022
 * Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
 
@@ -47,6 +47,7 @@ Courses Completed at Northwestern
 * 2022: Graduate Course on Design and Analysis of Algorithms, Northwestern University
 * 2022: Combinatorial Optimization, Northwestern University
 * 2022: Theory of Computational Complexity, Northwestern University
+* 2023: Approximation Algorithms, Northwestern University
 
 Courses Completed at Dartmouth
 ======
@@ -85,18 +86,19 @@ Technical and Language Skills
 Teaching Assistantships
 ======
 
+* Foundations of Computer Science, Prof. Eric Evert, Northwestern University, 2023
 * Analysis II TA, Prof. Sunder Sobers, Chennai Mathematical Institute, 2017
 
 Talks
 ======
 
+* 2023 - A constant lower bound for the union-closed sets, Venue: Northwestern University
 * 2017 - A Variant of Large Sieve, Venue: Institute of Mathematical Sciences
 * 2017 - Roth's Theorem, Venue: Institute of Mathematical Sciences
 * 2016 - Introduction to Cryptography, Venue: Chennai Mathematical Institute
 
 References
 ======
-* [VS Subrahmanian](https://vssubrah.github.io/), Northwestern University (PhD Adviser)
 
 * [Sourav Chakraborty](https://www.isical.ac.in/~sourav/), ISI Kolkata
 
