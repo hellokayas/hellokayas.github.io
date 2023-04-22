@@ -41,10 +41,10 @@ Courses Completed at Northwestern
 * 2022: Theory of Computational Complexity
 * 2022: Combinatorial Optimization
 * 2022: Advanced Graphics
-* 2022: Logic in Artificial Intelligence, Northwestern University
-* 2022: Machine Learning, Northwestern University
-* 2022: Introduction to Data Science Pipeline, Northwestern University
-* 2023: Approximation Algorithms, Northwestern University
+* 2022: Logic in Artificial Intelligence
+* 2022: Machine Learning
+* 2022: Introduction to Data Science Pipeline
+* 2023: Approximation Algorithms
 
 Courses Completed at Dartmouth
 ======
