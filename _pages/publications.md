@@ -15,7 +15,7 @@ Submitted<br>
 
 <b>[A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense](https://ieeexplore.ieee.org/abstract/document/9927814)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
-<i>BEST PAPER AWARD in [IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)](https://ieeexplore.ieee.org/xpl/conhome/9927523/proceeding)</i> <b>2017</b>.
+<i><b>BEST PAPER AWARD</b> [IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)](https://ieeexplore.ieee.org/xpl/conhome/9927523/proceeding)</i> <b>2022</b>.
 
 <b>[A Number Guessing Game](https://media.pims.math.ca/pi_in_sky/pi22.pdf)</b><br>
 Sayak Chakrabarty<br>
