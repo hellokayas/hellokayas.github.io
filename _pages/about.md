@@ -24,5 +24,4 @@ Recent News
 
 * September, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: Best Paper Award at [DASC/PiCOM/CBDCom/CyberSciTech22](http://cyber-science.org/2022/cbdcom/)
 
-* Judicial Support Tool: Finding the k-Most Likely Judicial Worlds(submitted)
-
+* Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)

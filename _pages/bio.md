@@ -18,6 +18,11 @@ Education
 
 Internships
 ======
+* Summer 2023: Research Intern
+  * [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
+  * Project: Discrepancy Theory
+  * Supervisor: [Vishesh Jain](https://jainvishesh.github.io/)
+
 * Summer 2019: Research Intern
   * Indian Statistical Institute, Kolkata, 2019
   * Duties included: Completing a project on Coding Theory
@@ -83,6 +88,7 @@ Technical and Language Skills
 Teaching Assistantships
 ======
 
+* Foundations of Computer Science, Prof. Xiao Wang, Northwestern University, 2023
 * Foundations of Computer Science, Prof. Eric Evert, Northwestern University, 2023
 * Analysis II TA, Prof. Sunder Sobers, Chennai Mathematical Institute, 2017
 
