@@ -22,6 +22,6 @@ redirect_from:
 Recent News
 ------
 
-* September, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: Best Paper Award at [DASC/PiCOM/CBDCom/CyberSciTech22](http://cyber-science.org/2022/cbdcom/)
+* September, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: [Best Paper Award](https://drive.google.com/file/d/1CcPke3MNfNuAbr2ZxwhWI8w_0YWHitQF/view?usp=sharing) at [DASC/PiCOM/CBDCom/CyberSciTech22](http://cyber-science.org/2022/cbdcom/)
 
-* Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
+* June, 2023 - Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)

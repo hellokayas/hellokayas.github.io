@@ -10,12 +10,18 @@ Submitted<br>
 <b>Judicial Support Tool: Finding the k-Most Likely Judicial Worlds</b><br>
 Submitted<br>
 
+<b>SockDef: A Dynamically Adaptive Defense to a Novel Attack on Review Fraud Detection Engines</b><br>
+Submitted<br>
+
+<b>JUST: Judicial Support Tool</b><br>
+US Patent Submitted<br>
+
 <b>On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis</b><br>
 Submitted<br>
 
 <b>[A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense](https://ieeexplore.ieee.org/abstract/document/9927814)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
-<i><b>BEST PAPER AWARD</b> [IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)](https://ieeexplore.ieee.org/xpl/conhome/9927523/proceeding)</i> <b>2022</b>.
+<i><b>[BEST PAPER AWARD](https://drive.google.com/file/d/1CcPke3MNfNuAbr2ZxwhWI8w_0YWHitQF/view?usp=sharing)</b> [IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)](https://ieeexplore.ieee.org/xpl/conhome/9927523/proceeding)</i> <b>2022</b>.
 
 <b>[A Number Guessing Game](https://media.pims.math.ca/pi_in_sky/pi22.pdf)</b><br>
 Sayak Chakrabarty<br>
