@@ -100,6 +100,12 @@ Talks
 * 2017 - Roth's Theorem, Venue: Institute of Mathematical Sciences
 * 2016 - Introduction to Cryptography, Venue: Chennai Mathematical Institute
 
+Fun Projects
+======
+
+* [A fast SVD algorithm](https://github.com/hellokayas/Some-Programming-Samples/blob/master/faster_SVD.py)
+* [Prophet Algorithm for Stock Price Prediction](https://github.com/hellokayas/Some-Programming-Samples/blob/master/Stock.ipynb)
+
 References
 ======
 
