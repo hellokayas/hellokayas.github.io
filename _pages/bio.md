@@ -109,7 +109,9 @@ Fun Projects
 References
 ======
 
-* [Sourav Chakraborty](https://www.isical.ac.in/~sourav/), ISI Kolkata
+Available upon request
+
+<!-- * [Sourav Chakraborty](https://www.isical.ac.in/~sourav/), ISI Kolkata
 
 * [Mridul Nandi](https://www.isical.ac.in/~mridul/), ISI Kolkata
 
@@ -117,4 +119,4 @@ References
 
 * [RV Ramamoorthie](https://www.stt.msu.edu/~ramamoor/), Michigan State University
 
-* [Krishna Hanumanthu](https://www.cmi.ac.in/~krishna/), Chennai Mathematical Institute
+* [Krishna Hanumanthu](https://www.cmi.ac.in/~krishna/), Chennai Mathematical Institute -->
