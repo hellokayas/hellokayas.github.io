@@ -88,9 +88,9 @@ Technical and Language Skills
 Teaching Assistantships
 ======
 
-* Foundations of Computer Science, Prof. Xiao Wang, Northwestern University, 2023
-* Foundations of Computer Science, Prof. Eric Evert, Northwestern University, 2023
-* Analysis II TA, Prof. Sunder Sobers, Chennai Mathematical Institute, 2017
+* Foundations of Computer Science, Northwestern University, 2023
+* Foundations of Computer Science, Northwestern University, 2023
+* Analysis II TA, Chennai Mathematical Institute, 2017
 
 Talks
 ======
