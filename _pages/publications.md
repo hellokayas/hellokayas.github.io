@@ -6,11 +6,11 @@ author_profile: true
 
 <b>[Single-Pass Pivot Algorithm for Correlation Clustering. Keep it simple!](https://arxiv.org/pdf/2305.13560.pdf)</b><br>
 Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<br>
-<i>Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS)</i> <b>2023</b>
+<i>Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS, 2023)</i>
 
 <b>On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis</b><br>
 [Arghya Datta](https://www.linkedin.com/in/arghya-d-66a450195/), Sayak Chakrabarty<br>
-<i>Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS)</i> <b>2023</b>
+<i>Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS, 2023)</i>
 
 <b>Judicial Support Tool: Finding the k-Most Likely Judicial Worlds</b><br>
 Submitted<br>

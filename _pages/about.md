@@ -15,9 +15,9 @@ Recent News
 
 * June, 2023 - Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
 
-* September, 2023 - ``Single-Pass Pivot Algorithm for Correlation Clustering. Keep it simple!" accepted at NeurIPS,2023
+* September, 2023 - "Single-Pass Pivot Algorithm for Correlation Clustering. Keep it simple!" accepted at **NeurIPS, 2023**
 
-* September, 2023 - ``On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis" accepted at NeurIPS,2023
+* September, 2023 - "On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis" accepted at **NeurIPS,2023**
 
 About Me
 ------
