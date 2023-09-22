@@ -15,9 +15,10 @@ Recent News
 
 * September, 2023 - "On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis" accepted at **NeurIPS, 2023**
 
+* June, 2023 - Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
+
 * September, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: [Best Paper Award](https://drive.google.com/file/d/1CcPke3MNfNuAbr2ZxwhWI8w_0YWHitQF/view?usp=sharing) at [DASC/PiCOM/CBDCom/CyberSciTech22](http://cyber-science.org/2022/cbdcom/)
 
-* June, 2023 - Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
 
 About Me
 ------
