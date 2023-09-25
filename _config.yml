@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sayak Chakrabarty's Homepage"
+title                    : "Sayak's Homepage"
 title_separator          : "-"
 name                     : &name "Sayak Chakrabarty"
 description              : &description "Ph.D. student, Department of Computer Science, Northwestern University"

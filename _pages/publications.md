@@ -16,7 +16,8 @@ Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<b
 Submitted<br>
 
 <b>SockDef: A Dynamically Adaptive Defense to a Novel Attack on Review Fraud Detection Engines</b><br>
-Submitted<br>
+[Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
+<i> IEEE Transactions on Computational Social Systems</i> <b>September 2023</b>.
 
 <b>JUST: Judicial Support Tool</b><br>
 US Patent Submitted<br>
