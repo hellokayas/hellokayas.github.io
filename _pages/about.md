@@ -24,7 +24,8 @@ About Me
 ------
 
 * I am a graduate student in the [Department of Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at Northwestern University where I started my PhD from fall 2021. 
-<!-- * I work in Computer Science and my office is on the third floor of [Seeley G. Mudd building](https://www.library.northwestern.edu/libraries-collections/mudd-library/). Currently I work with [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/). Here is a copy of my (updated Sep 2023) [Curriculum Vitae](https://hellokayas.github.io/files/Resume.pdf) and here is my [DBLP](https://dblp.org/pid/336/3841.html) profile. -->
+<!-- * I work in Computer Science and my office is on the third floor of [Seeley G. Mudd building](https://www.library.northwestern.edu/libraries-collections/mudd-library/). Currently I work with [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/).  and here is my [DBLP](https://dblp.org/pid/336/3841.html) profile. -->
+* Here is a copy of my (updated Sep 2023) [Curriculum Vitae](https://hellokayas.github.io/files/Resume_Ind_.pdf)
 * I am broadly interested in theoretical computer science, primary focus being Algorithms and Machine Learning Theory. I have worked on some approximation algorithm problems related to corelation clustering and theoretical guarantees related to consistency in probabilistic methods. I find problems in combinatorial optimization and Discrepancy theory very interesting too!
 <!-- * I have completed my PhD(also Masters in CS) course requirements in Fall 2022 and was awarded the Masters degree. I have not completed my PhD qualification exam yet. -->
 * I completed my Masters of Mathematics(MMath) from [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), Kolkata, India.
