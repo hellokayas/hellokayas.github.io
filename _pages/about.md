@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ```diff
-@@ I am actively seeking entry level positions in the industry as SWE/Data Scientist. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu@@
+- I am actively seeking entry level positions in the industry as SWE/Data Scientist. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu
 ```
 
 Recent News
