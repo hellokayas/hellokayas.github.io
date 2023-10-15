@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Computer Science, Northwestern University, 2021-Present -->
-* Masters in Computer Science, Northwestern University, December 2022
+* Masters in Computer Science, Northwestern University
 * Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
 
