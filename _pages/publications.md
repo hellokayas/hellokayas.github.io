@@ -8,7 +8,7 @@ author_profile: true
 Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<br>
 <i>Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS, 2023)</i>
 
-<b>On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis</b><br>
+<b>[On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis](https://arxiv.org/pdf/2311.05046.pdf)</b><br>
 [Arghya Datta](https://www.linkedin.com/in/arghya-d-66a450195/), Sayak Chakrabarty<br>
 <i>Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS, 2023)</i>
 
