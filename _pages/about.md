@@ -19,6 +19,8 @@ Recent News
 
 * June, 2023 - Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
 
+* December, 2023 - Featured in Engineering news at Northwestern. [SockDef: Mitigating review fraud](https://www.mccormick.northwestern.edu/news/articles/2022/12/applying-ai-techniques-in-cybersecurity-counterterrorism-and-international-security/)
+
 * September, 2022 - A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense: [Best Paper Award](https://drive.google.com/file/d/1CcPke3MNfNuAbr2ZxwhWI8w_0YWHitQF/view?usp=sharing) at [DASC/PiCOM/CBDCom/CyberSciTech22](http://cyber-science.org/2022/cbdcom/)
 
 

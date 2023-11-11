@@ -15,7 +15,7 @@ Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<b
 <b>Judicial Support Tool: Finding the k-Most Likely Judicial Worlds</b><br>
 Submitted<br>
 
-<b>SockDef: A Dynamically Adaptive Defense to a Novel Attack on Review Fraud Detection Engines</b><br>
+<b>[SockDef: A Dynamically Adaptive Defense to a Novel Attack on Review Fraud Detection Engines](https://ieeexplore.ieee.org/abstract/document/10285721)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
 <i> IEEE Transactions on Computational Social Systems</i> <b>September 2023</b>.
 
