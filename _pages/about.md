@@ -12,10 +12,9 @@ redirect_from:
 
 Recent News
 ------
+* December 18, 2023 - Featured in Department news: [Strong Northwestern CS Presence at the 2023 NeurIPS Conference](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html#:~:text=Northwestern%20contributions%20to%20the%20NeurIPS,%2C%20and%20Arghya%20Datta%20(Amazon))
 
-* September, 2023 - "Single-Pass Pivot Algorithm for Correlation Clustering. Keep it simple!" accepted at **NeurIPS, 2023**
-
-* September, 2023 - "On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis" accepted at **NeurIPS, 2023**
+* September, 2023 - Two papers: "Single-Pass Pivot Algorithm for Correlation Clustering. Keep it simple!" and "On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis" accepted at **NeurIPS, 2023**
 
 * June, 2023 - Selected for internship at [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
 
