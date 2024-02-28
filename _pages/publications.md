@@ -17,8 +17,10 @@ Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<b
 <i> IEEE Transactions on Computational Social Systems</i> <b>September 2023</b>.
 
 <b>JUST: Judicial Support Tool - Finding the k-Most Likely Judicial Worlds</b><br>
-US Patent Submitted<br>
+US Patent - NU2023-115-01(63541555) Submitted<br>
 
+<b>JUST: Judicial Support Tool - Finding the k-Most Likely Judicial Worlds</b><br>
+Paper Submitted<br>
 
 <b>[A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense](https://ieeexplore.ieee.org/abstract/document/9927814)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
