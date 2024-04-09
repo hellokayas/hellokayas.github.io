@@ -79,11 +79,11 @@ Honors and Awards
 
 Technical and Language Skills
 ======
-* Python 3
-* C++ 
-* Haskell
-* Matlab, Latex
-* Fluent in English and Bengali(Native)
+
+* Languages: Python, C++, PHP, HTML, R, Haskell, SQL,Java
+* Frameworks: Numpy, Pandas, Scikeat-Learn, PyTorch, Matplotlib, Seaborn, Networkx,
+* Software Tools: Git, Excel, LaTeX, A/B tests, statistical experiments
+* ML Techniques: Supervised/unsupervised/Reinforcement Learning, Few-shot Learning, Transformer Models
 
 Teaching Assistantships
 ======
