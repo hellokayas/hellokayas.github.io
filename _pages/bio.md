@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Northwestern University, 2021-Present
-* Masters in Computer Science, Northwestern University
+* Ph.D in Computer Science, Northwestern University, 2024-Present
+* Masters in Computer Science, Northwestern University, 2021- 2023
 * Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
 
 Internships
 ======
+* Summer 2024: Research Internship at Nokia Bell Labs (Ongoing)
+
 * Summer 2023: Research Intern
   * [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
   * Project: Discrepancy Theory
@@ -40,6 +42,8 @@ Internships
 
 Courses Completed at Northwestern
 ======
+* Spring 2021: Topics in Probability
+* Spring 2021: Randomized Algorithms
 * 2021: Mechanism Design
 * 2022: Graduate Algorithms
 * 2022: Foundations of Quantum Computation
@@ -51,10 +55,9 @@ Courses Completed at Northwestern
 * 2022: Introduction to Data Science Pipeline
 * 2023: Approximation Algorithms
 
-Courses Completed at Dartmouth
+Served as Reviewer
 ======
-* Spring 2021: Topics in Probability
-* Spring 2021: Randomized Algorithms
+* I served as a reviewer for the European Symposium on Algorithms (ESA 2024)
 
 Master's Project
 ======
@@ -88,7 +91,7 @@ Technical and Language Skills
 Teaching Assistantships
 ======
 
-* Foundations of Computer Science, Northwestern University, 2023
+* Design and Analysis of Algorithms, Northwestern University, 2024
 * Foundations of Computer Science, Northwestern University, 2023
 * Analysis II TA, Chennai Mathematical Institute, 2017
 

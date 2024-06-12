@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-* I am actively seeking positions(internships) in the industry as SWE/Data Scientist. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu
+* I am actively seeking positions(internships) in the industry as SWE/MLE. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu
 
 Recent News
 ------
+* June 10, 2024 - I have started a Research Internship at Nokia Bell Labs. I am working on Personalized Federated Learning.
+
 * December 18, 2023 - Featured in Department news: [Strong Northwestern CS Presence at the 2023 NeurIPS Conference](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html#:~:text=Northwestern%20contributions%20to%20the%20NeurIPS,%2C%20and%20Arghya%20Datta%20(Amazon))
 
 * September, 2023 - Two papers: "Single-Pass Pivot Algorithm for Correlation Clustering. Keep it simple!" and "On the Consistency of Maximum Likelihood Estimation of Probabilistic Principal Component Analysis" accepted at **NeurIPS, 2023**
