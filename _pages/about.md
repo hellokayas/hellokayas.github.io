@@ -12,7 +12,7 @@ redirect_from:
 
 Recent News
 ------
-* June 10, 2024 - I have started a Research Internship at Nokia Bell Labs. I am working on Personalized Federated Learning.
+* June 10, 2024 - I have started a Research Internship at [Nokia Bell Labs](https://www.bell-labs.com/research-innovation/ai-software-systems/). I am working on Personalized Federated Learning.
 
 * December 18, 2023 - Featured in Department news: [Strong Northwestern CS Presence at the 2023 NeurIPS Conference](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html#:~:text=Northwestern%20contributions%20to%20the%20NeurIPS,%2C%20and%20Arghya%20Datta%20(Amazon))
 
