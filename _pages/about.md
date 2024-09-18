@@ -35,6 +35,7 @@ About Me
 <!-- * Here is a copy of my (updated June 2024) [Curriculum Vitae](https://hellokayas.github.io/files/Sayak_Chakrabarty_resume.pdf) -->
 * I am broadly interested in theoretical computer science, primary focus being Algorithms and Applied Machine Learning. I have worked on some approximation algorithm problems related to corelation clustering and theoretical guarantees related to consistency in probabilistic methods.
 <!-- * I have completed my PhD(also Masters in CS) course requirements in Fall 2022 and was awarded the Masters degree. I have not completed my PhD qualification exam yet. -->
+* I completed my Masters of Computer Science(MS in CS) from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), Evanston, Illinois, USA.
 * I completed my Masters of Mathematics(MMath) from [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), Kolkata, India.
 * I completed my undergraduate studies(Bsc dual hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/), India.
 * I completed my school education from [South Point High School](https://www.southpoint.edu.in/), Kolkata, India.
