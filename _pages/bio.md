@@ -18,7 +18,9 @@ Education
 
 Internships
 ======
-* Summer 2024: Research Internship at Nokia Bell Labs (Ongoing)
+* Summer 2024: Research Internship at Nokia Bell Labs
+  * Deployed a model based on Personalized Federated Learning and showed Autoencoder based model beats IFCA(strong supervised federated learning model)
+  * Tech stack: Python, Numpy, Pandas, Scikeat-Learn, PyTorch, Matplotlib, Seaborn, Unsupervised learning, Git
 
 * Summer 2023: Research Intern
   * [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)

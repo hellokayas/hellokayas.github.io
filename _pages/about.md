@@ -12,6 +12,8 @@ redirect_from:
 
 Recent News
 ------
+* Oct 2024 - Engineered and Deployed [MM-PoE for Multi-Modal Learning](https://pypi.org/project/mm-poe/)
+
 * Sep 10, 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
 
 * June 10, 2024 - I have started a Research Internship at [Nokia Bell Labs](https://www.bell-labs.com/research-innovation/ai-software-systems/). I am working on Personalized Federated Learning and Privacy Preserving ML.
