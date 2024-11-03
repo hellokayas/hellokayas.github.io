@@ -59,7 +59,12 @@ Courses Completed at Northwestern
 
 Served as Reviewer
 ======
-* I served as a reviewer for the European Symposium on Algorithms (ESA 2024)
+
+* International Conference on Data Mining (ICDM 2024)
+* European Symposium on Algorithms (ESA 2024)
+* Nature Scientific Reports (August 2024 issue)
+* BigData 2024
+* Integrating Materials and Manufacturing Innovation Journal
 
 Master's Project
 ======
