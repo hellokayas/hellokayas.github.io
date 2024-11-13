@@ -12,7 +12,7 @@ redirect_from:
 
 Recent News
 ------
-* Nov 2024 - * Oct 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/)
+* Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/)
 
 * Oct 2024 - Engineered and Deployed [MM-PoE for Multi-Modal Learning](https://pypi.org/project/mm-poe/)
 
