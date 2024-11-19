@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5)</b><br>
+[Maksim Bolonkin](https://www.linkedin.com/in/maksim-bolonkin), Sayak Chakrabarty, [Cristian Molinaro](https://scholar.google.com/citations?user=UdYMo0gAAAAJ&hl=en) & [V. S. Subrahmanian](https://vssubrah.github.io/) <br>
+<i>The 16th International Conference on Scalable Uncertainty Management (SUM 2024)</i>
+
 <b>[Single-Pass Pivot Algorithm for Correlation Clustering. Keep it simple!](https://arxiv.org/pdf/2305.13560.pdf)</b><br>
 Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<br>
 <i>Thirty-seventh Conference on Neural Information Processing Systems(NeurIPS, 2023)</i>
