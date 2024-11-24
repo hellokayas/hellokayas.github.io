@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-* I am actively seeking positions(internships) in the industry as SWE/MLE. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu
+<!-- * I am actively seeking positions(internships) in the industry as SWE/MLE. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu -->
 
 Recent News
 ------
+* Nov 2024 - I have accepted an offer as PhD Machine Learning Engineer intern from [Pinterest](https://www.pinterestcareers.com/) for summer 2025. I will be working in the Home Feed Recommendations team.
+
 * Nov 2024 - Our Paper [Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5) got accepted at [The 16th International Conference on Scalable Uncertainty Management (SUM 2024)](https://sum2024.unipa.it/) with publisher Springer Nature.
 
 * Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/)
