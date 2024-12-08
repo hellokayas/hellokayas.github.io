@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Northwestern University, 2024-Present
+* Ph.D in Computer Science, Northwestern University, 2021-Present
 * Masters in Computer Science, Northwestern University, 2021- 2023
 * Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
 
 Internships
 ======
+* Summer 2025: Upcoming Internship at Pinterest as a Machine Learning Engineer in the HomeFeed Recommendations team
+
 * Summer 2024: Research Internship at [Nokia Bell Labs](https://www.bell-labs.com/research-innovation/ai-software-systems/)
   <!-- * Deployed a model based on Personalized Federated Learning and showed Autoencoder based model beats IFCA(strong supervised federated learning model) -->
   * Tech stack: Python, Numpy, Pandas, Scikeat-Learn, PyTorch, Matplotlib, Seaborn, Unsupervised learning, Git
@@ -98,6 +100,8 @@ Technical and Language Skills
 Teaching Assistantships
 ======
 
+* Introduction to Data Science, 2025
+* Introduction to Computer Graphics, 2024
 * Design and Analysis of Algorithms, Northwestern University, 2024
 * Foundations of Computer Science, Northwestern University, 2023
 * Analysis II TA, Chennai Mathematical Institute, 2017

@@ -16,7 +16,7 @@ Recent News
 
 * Nov 2024 - Our Paper [Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5) got accepted at [The 16th International Conference on Scalable Uncertainty Management (SUM 2024)](https://sum2024.unipa.it/) with publisher Springer Nature.
 
-* Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/)
+* Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/). Our paper can be found [here](https://arxiv.org/pdf/2412.00726)
 
 * Oct 2024 - Engineered and Deployed [MM-PoE for Multi-Modal Learning](https://pypi.org/project/mm-poe/)
 
@@ -46,5 +46,5 @@ About Me
 * I completed my Masters of Computer Science(MS in CS) from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), Evanston, Illinois, USA.
 * I completed my Masters of Mathematics(MMath) from [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), Kolkata, India.
 * I completed my undergraduate studies(Bsc dual hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/), India.
-* I completed my school education from [South Point High School](https://www.southpoint.edu.in/), Kolkata, India.
+* I completed my school education from [South Point High School](https://southpoint.ac.in/), Kolkata, India.
 

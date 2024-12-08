@@ -10,6 +10,7 @@ Office: Mudd Building 3rd floor, 2233 Tech Dr, Evanston, IL 60208<br>
 
 Work Email: sayakchakrabarty2025 [at] u.northwestern.edu<br>
 
-Personal Email: pidnas94335@gmail.com<br>
+<!-- Personal Email: pidnas94335@gmail.com<br> -->
+Best way to reach me is via Email!
 
 Skype: hellokayas
