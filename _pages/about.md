@@ -18,7 +18,7 @@ Recent News
 
 * Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/). Our paper can be found [here](https://arxiv.org/pdf/2412.00726)
 
-* Oct 2024 - Engineered and Deployed [MM-PoE for Multi-Modal Learning](https://pypi.org/project/mm-poe/)
+* Oct 2024 - Engineered and Deployed [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://pypi.org/project/mm-poe/). Our paper can be found [here](https://arxiv.org/abs/2412.07148)
 
 * Sep 10, 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
 
