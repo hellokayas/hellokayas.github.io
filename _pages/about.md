@@ -47,4 +47,5 @@ About Me
 * I completed my Masters of Mathematics(MMath) from [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), Kolkata, India.
 * I completed my undergraduate studies(Bsc dual hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/), India.
 * I completed my school education from [South Point High School](https://southpoint.ac.in/), Kolkata, India.
+* Fun Fact: My Erdos number is 3. Erdos -> Noga Alon -> K. Makarychev -> MEEEEE!!
 
