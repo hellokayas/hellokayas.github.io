@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Personalized Federated Learning through Clustering of Loss Vector Embeddings</b><br>
+Paper Submitted<br>
+
+<b>CLT, Edgeworth Expansion, and Hall’s Phenomenon for m-out-of-n Bootstrap Estimators of The Studentized Sample Median</b><br>
+Paper Submitted<br>
+
 <b>[Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5)</b><br>
 [Maksim Bolonkin](https://www.linkedin.com/in/maksim-bolonkin), Sayak Chakrabarty, [Cristian Molinaro](https://scholar.google.com/citations?user=UdYMo0gAAAAJ&hl=en) & [V. S. Subrahmanian](https://vssubrah.github.io/) <br>
 <i>The 16th International Conference on Scalable Uncertainty Management (SUM 2024)</i>
