@@ -16,9 +16,9 @@ Recent News
 
 * Nov 2024 - Our Paper [Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5) got accepted at [The 16th International Conference on Scalable Uncertainty Management (SUM 2024)](https://sum2024.unipa.it/) with publisher Springer Nature.
 
-* Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/). Our paper can be found [here](https://arxiv.org/pdf/2412.00726)
+* Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
 
-* Oct 2024 - Engineered and Deployed [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://pypi.org/project/mm-poe/). Our paper can be found [here](https://arxiv.org/abs/2412.07148)
+* Oct 2024 - Engineered and Deployed [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://pypi.org/project/mm-poe/). Read about it [here](https://medium.com/@souradipp43/smart-reasoning-mastering-multiple-choice-question-answering-with-vision-language-models-d4fc30e7594f)
 
 * Sep 10, 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
 
