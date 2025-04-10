@@ -10,6 +10,15 @@ Paper Submitted<br>
 <b>CLT, Edgeworth Expansion, and Hall’s Phenomenon for m-out-of-n Bootstrap Estimators of The Studentized Sample Median</b><br>
 Paper Submitted<br>
 
+<b>An AI-driven framework for time-series processing-microstructure-property prediction</b><br>
+Paper Submitted<br>
+
+<b>[Free and Customizable Code Documentation with LLMs: A Fine-Tuning Approach](https://arxiv.org/pdf/2412.00726)</b><br>
+Paper Submitted<br>
+
+<b>JUST: Judicial Support Tool - Finding the k-Most Likely Judicial Worlds</b><br>
+US Patent - NU2023-115-01(63541555) Submitted<br>
+
 <b>[Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5)</b><br>
 [Maksim Bolonkin](https://www.linkedin.com/in/maksim-bolonkin), Sayak Chakrabarty, [Cristian Molinaro](https://scholar.google.com/citations?user=UdYMo0gAAAAJ&hl=en) & [V. S. Subrahmanian](https://vssubrah.github.io/) <br>
 <i>The 16th International Conference on Scalable Uncertainty Management (SUM 2024)</i>
@@ -24,16 +33,11 @@ Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<b
 
 <b>[SockDef: A Dynamically Adaptive Defense to a Novel Attack on Review Fraud Detection Engines](https://ieeexplore.ieee.org/abstract/document/10285721)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
-<i> IEEE Transactions on Computational Social Systems</i> <b>September 2023</b>.
+<i> IEEE Transactions on Computational Social Systems</i> <b>September 2023</b>
 
-<b>JUST: Judicial Support Tool - Finding the k-Most Likely Judicial Worlds</b><br>
-US Patent - NU2023-115-01(63541555) Submitted<br>
-
-<b>[Free and Customizable Code Documentation with LLMs: A Fine-Tuning Approach](https://arxiv.org/pdf/2412.00726)</b><br>
-Paper Submitted<br>
-
-<b>[MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://arxiv.org/abs/2412.07148)</b><br>
-Paper Submitted<br>
+<b>[MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783)</b><br>
+Sayak Chakrabarty<br>,[Souradip Pal](https://souradipp76.github.io/)
+<i>[The Journal of Open Source Software (JOSS)](https://joss.theoj.org/)</i>
 
 <b>[A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense](https://ieeexplore.ieee.org/abstract/document/9927814)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>

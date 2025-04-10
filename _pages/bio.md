@@ -21,8 +21,8 @@ Internships
 * Summer 2025: Upcoming Internship at Pinterest as a Machine Learning Engineer in the HomeFeed Recommendations team
 
 * Summer 2024: Research Internship at [Nokia Bell Labs](https://www.bell-labs.com/research-innovation/ai-software-systems/)
-  <!-- * Deployed a model based on Personalized Federated Learning and showed Autoencoder based model beats IFCA(strong supervised federated learning model) -->
-  * Tech stack: Python, Numpy, Pandas, Scikeat-Learn, PyTorch, Matplotlib, Seaborn, Unsupervised learning, Git
+  * Submitted our paper ``Personalized Federated Learning through Clustering of Loss Vector Embeddings"
+  * Tech stack: Python, Numpy, Pandas, Scikeat-Learn, PyTorch, Matplotlib, Seaborn, Git
 
 * Summer 2023: Research Intern
   * [The Institute for Data, Econometrics, Algorithms, and Learning](https://www.ideal-institute.org/)
@@ -64,9 +64,11 @@ Served as Reviewer
 
 * International Conference on Data Mining (ICDM 2024)
 * European Symposium on Algorithms (ESA 2024)
-* Nature Scientific Reports (August 2024 issue)
+* Nature Scientific Reports
 * BigData 2024
 * Integrating Materials and Manufacturing Innovation Journal
+* IEEE/CAA Journal of Automatica Sinica
+* Conference on Language Modeling (COLM 2025)
 
 Master's Project
 ======

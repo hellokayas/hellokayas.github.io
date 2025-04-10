@@ -12,5 +12,3 @@ Work Email: sayakchakrabarty2025 [at] u.northwestern.edu<br>
 
 <!-- Personal Email: pidnas94335@gmail.com<br> -->
 Best way to reach me is via Email!
-
-Skype: hellokayas

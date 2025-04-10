@@ -12,13 +12,13 @@ redirect_from:
 
 Recent News
 ------
+* Apr 2025 - Our paper [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783) is published in [The Journal of Open Source Software](https://joss.theoj.org/). Read about it [here](https://medium.com/@souradipp43/smart-reasoning-mastering-multiple-choice-question-answering-with-vision-language-models-d4fc30e7594f)
+
 * Nov 2024 - I have accepted an offer as PhD Machine Learning Engineer intern from [Pinterest](https://www.pinterestcareers.com/) for summer 2025. I will be working in the Home Feed Recommendations team.
 
 * Nov 2024 - Our Paper [Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5) got accepted at [The 16th International Conference on Scalable Uncertainty Management (SUM 2024)](https://sum2024.unipa.it/) with publisher Springer Nature.
 
-* Nov 2024 - Engineered and Deployed [ReadmeReady:Auto-generate code documentation in Markdown format in seconds](https://pypi.org/project/readme-ready/). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
-
-* Oct 2024 - Engineered and Deployed [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://pypi.org/project/mm-poe/). Read about it [here](https://medium.com/@souradipp43/smart-reasoning-mastering-multiple-choice-question-answering-with-vision-language-models-d4fc30e7594f)
+* Nov 2024 - Engineered and Deployed [Free and Customizable Code Documentation with LLMs: A Fine-Tuning Approach](https://pypi.org/project/readme-ready/). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
 
 * Sep 10, 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
 
@@ -32,10 +32,10 @@ Recent News
 About Me
 ------
 
-* I am a PhD student in the [Department of Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at Northwestern University. 
+* I am a PhD candidate in the [Department of Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at Northwestern University.
 * I completed my Masters of Computer Science(MS in CS) from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), Evanston, Illinois, USA.
 * I completed my Masters of Mathematics(MMath) from [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), Kolkata, India.
 * I completed my undergraduate studies(Bsc dual hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/), India.
-* I completed my school education from [South Point High School](https://southpoint.ac.in/), Kolkata, India.
+* I completed my school education from [South Point High School](https://en.wikipedia.org/wiki/South_Point_School), Kolkata, India.
 * Fun Fact: My Erdos number is 3. Erdos -> Noga Alon -> K. Makarychev -> MEEEEE!! You can find yours from [here](https://www.csauthors.net/distance/paul-erdos/sayak-chakrabarty)
 
