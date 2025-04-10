@@ -36,7 +36,7 @@ Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<b
 <i> IEEE Transactions on Computational Social Systems, September 2023</i>
 
 <b>[MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783)</b><br>
-Sayak Chakrabarty<br>,[Souradip Pal](https://souradipp76.github.io/)<br>
+Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[The Journal of Open Source Software (JOSS)](https://joss.theoj.org/)</i>
 
 <b>[A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense](https://ieeexplore.ieee.org/abstract/document/9927814)</b><br>
