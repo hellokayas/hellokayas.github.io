@@ -21,7 +21,7 @@ Internships
 * Summer 2025: Upcoming Internship at Pinterest as a Machine Learning Engineer in the HomeFeed Recommendations team
 
 * Summer 2024: Research Internship at [Nokia Bell Labs](https://www.bell-labs.com/research-innovation/ai-software-systems/)
-  * Submitted our paper ``Personalized Federated Learning through Clustering of Loss Vector Embeddings"
+  * Submitted our paper "Personalized Federated Learning through Clustering of Loss Vector Embeddings"
   * Tech stack: Python, Numpy, Pandas, Scikeat-Learn, PyTorch, Matplotlib, Seaborn, Git
 
 * Summer 2023: Research Intern

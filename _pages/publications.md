@@ -33,20 +33,20 @@ Sayak Chakrabarty, [Konstantin Makarychev](https://konstantin.makarychev.net/)<b
 
 <b>[SockDef: A Dynamically Adaptive Defense to a Novel Attack on Review Fraud Detection Engines](https://ieeexplore.ieee.org/abstract/document/10285721)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
-<i> IEEE Transactions on Computational Social Systems</i> <b>September 2023</b>
+<i> IEEE Transactions on Computational Social Systems, September 2023</i>
 
 <b>[MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783)</b><br>
-Sayak Chakrabarty<br>,[Souradip Pal](https://souradipp76.github.io/)
+Sayak Chakrabarty<br>,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[The Journal of Open Source Software (JOSS)](https://joss.theoj.org/)</i>
 
 <b>[A New Dynamically Changing Attack on Review Fraud Systems and a Dynamically Changing Ensemble Defense](https://ieeexplore.ieee.org/abstract/document/9927814)</b><br>
 [Youzhi Zhang](https://youzhi333.github.io/index.html); Sayak Chakrabarty; [Rui Liu](https://www.linkedin.com/in/rui-liu-70b16081); [Andrea Pugliese](https://sites.google.com/unical.it/andreapugliese); [V. S. Subrahmanian](https://vssubrah.github.io/)<br>
-<i><b>[BEST PAPER AWARD](https://drive.google.com/file/d/1CcPke3MNfNuAbr2ZxwhWI8w_0YWHitQF/view?usp=sharing)</b> IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)</i> <b>2022</b>.
+<i><b>[BEST PAPER AWARD](https://drive.google.com/file/d/1CcPke3MNfNuAbr2ZxwhWI8w_0YWHitQF/view?usp=sharing)</b> IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech) 2022</i>
 
 <b>[A Number Guessing Game](https://media.pims.math.ca/pi_in_sky/pi22.pdf)</b><br>
 Sayak Chakrabarty<br>
-<i>Pi in the Sky, Issue 22, Pacific Institute for the Mathematical Sciences.</i> <b>January 2021</b>.
+<i>Pi in the Sky, Issue 22, Pacific Institute for the Mathematical Sciences, January 2021</i>
 
 <b>[The Repeated Divisor Function and Possible Correlation with Highly Composite Numbers](https://www.researchgate.net/publication/316596873_The_Repeated_Divisor_Function_and_Possible_Correlation_with_Highly_Composite_Numbers)</b><br>
 Sayak Chakrabarty, [Arghya Datta](https://www.linkedin.com/in/arghya-d-66a450195/)<br>
-<i>[20th International Workshop for Young Mathematicians "Number Theory"](http://kmsuj.im.uj.edu.pl/workshop2017/index.php%3Faction=history.html)-The Zaremba Society of Mathematicians - Students of the Jagiellonian University, Krakow, Poland.</i> <b>2017</b>.
+<i>[20th International Workshop for Young Mathematicians "Number Theory", 2017](http://kmsuj.im.uj.edu.pl/workshop2017/index.php%3Faction=history.html)-The Zaremba Society of Mathematicians - Students of the Jagiellonian University, Krakow, Poland.</i>
