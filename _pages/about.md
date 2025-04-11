@@ -12,6 +12,8 @@ redirect_from:
 
 Recent News
 ------
+* US Patent [Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html) published.
+
 * Apr 2025 - Our paper [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783) is published in [The Journal of Open Source Software](https://joss.theoj.org/). Read about it [here](https://medium.com/@souradipp43/smart-reasoning-mastering-multiple-choice-question-answering-with-vision-language-models-d4fc30e7594f)
 
 * Nov 2024 - I have accepted an offer as PhD Machine Learning Engineer intern from [Pinterest](https://www.pinterestcareers.com/) for summer 2025. I will be working in the Home Feed Recommendations team.

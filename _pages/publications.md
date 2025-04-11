@@ -16,8 +16,8 @@ Paper Submitted<br>
 <b>[Free and Customizable Code Documentation with LLMs: A Fine-Tuning Approach](https://arxiv.org/pdf/2412.00726)</b><br>
 Paper Submitted<br>
 
-<b>JUST: Judicial Support Tool - Finding the k-Most Likely Judicial Worlds</b><br>
-US Patent - NU2023-115-01(63541555) Submitted<br>
+<b>[Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html)</b><br>
+United States Patent Application 20250111457 (published 04/03/2025)<br>
 
 <b>[Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5)</b><br>
 [Maksim Bolonkin](https://www.linkedin.com/in/maksim-bolonkin), Sayak Chakrabarty, [Cristian Molinaro](https://scholar.google.com/citations?user=UdYMo0gAAAAJ&hl=en) & [V. S. Subrahmanian](https://vssubrah.github.io/) <br>
