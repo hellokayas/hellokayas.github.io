@@ -13,8 +13,9 @@ Paper Submitted<br>
 <b>An AI-driven framework for time-series processing-microstructure-property prediction</b><br>
 Paper Submitted<br>
 
-<b>[Free and Customizable Code Documentation with LLMs: A Fine-Tuning Approach](https://arxiv.org/pdf/2412.00726)</b><br>
-Paper Submitted<br>
+<b>[ReadmeReady: Free and Customizable Code Documentation with LLMs - A Fine-Tuning Approach](https://www.theoj.org/joss-papers/joss.07489/10.21105.joss.07489.pdf)</b><br>
+Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
+<i>[The Journal of Open Source Software (JOSS)](https://joss.theoj.org/)</i>
 
 <b>[Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html)</b><br>
 United States Patent Application 20250111457 (published 04/03/2025)<br>

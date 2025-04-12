@@ -12,7 +12,9 @@ redirect_from:
 
 Recent News
 ------
-* US Patent [Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html) published.
+* Apr 2025 - Our paper [ReadmeReady: Free and Customizable Code Documentation with LLMs - A Fine-Tuning Approach](https://joss.theoj.org/papers/10.21105/joss.07489) is published in [The Journal of Open Source Software](https://joss.theoj.org/). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
+
+* Apr 2025 - US Patent [Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html) published.
 
 * Apr 2025 - Our paper [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783) is published in [The Journal of Open Source Software](https://joss.theoj.org/). Read about it [here](https://medium.com/@souradipp43/smart-reasoning-mastering-multiple-choice-question-answering-with-vision-language-models-d4fc30e7594f)
 
