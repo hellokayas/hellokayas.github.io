@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Predicting Lattice Parameters from Atomic-Scale Images of Two Dimensional (2D) Materials Using Deep Learning</b><br>
+Paper Submitted<br>
+
 <b>Personalized Federated Learning through Clustering of Loss Vector Embeddings</b><br>
 Paper Submitted<br>
 
