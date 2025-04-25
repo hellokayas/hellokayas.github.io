@@ -21,6 +21,7 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[The Journal of Open Source Software (JOSS)](https://joss.theoj.org/)</i>
 
 <b>[Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html)</b><br>
+[V. S. Subrahmanian](https://vssubrah.github.io/),Sayak Chakrabarty,[Maksim Bolonkin](https://www.linkedin.com/in/maksim-bolonkin),[Cristian Molinaro](https://scholar.google.com/citations?user=UdYMo0gAAAAJ&hl=en)<br>
 United States Patent Application 20250111457 (published 04/03/2025)<br>
 
 <b>[Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5)</b><br>
