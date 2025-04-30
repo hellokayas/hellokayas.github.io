@@ -20,8 +20,6 @@ Recent News
 
 * Nov 2024 - I have accepted an offer as PhD Machine Learning Engineer intern from [Pinterest](https://www.pinterestcareers.com/) for summer 2025. I will be working in the Home Feed Recommendations team.
 
-* Nov 2024 - Our Paper [Judicial Support Tool: Finding the k Most Likely Judicial Worlds](https://link.springer.com/chapter/10.1007/978-3-031-76235-2_5) got accepted at [The 16th International Conference on Scalable Uncertainty Management (SUM 2024)](https://sum2024.unipa.it/) with publisher Springer Nature.
-
 * Sep 10, 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
 
 * December 18, 2023 - Featured in Department news: [Strong Northwestern CS Presence at the 2023 NeurIPS Conference](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html#:~:text=Northwestern%20contributions%20to%20the%20NeurIPS,%2C%20and%20Arghya%20Datta%20(Amazon))
