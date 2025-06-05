@@ -12,15 +12,20 @@ redirect_from:
 
 Recent News
 ------
+* June 2025 - I am joining as Machine Learning Engineer at [Pinterest](https://www.pinterestcareers.com/departments/engineering/) for summer internship. I will be working in the Home Feed Recommendations team in the Core Engineering Org.
+
+* May 2025 - Invited to talk at [Salesforce AI Research](https://www.salesforceairesearch.com/) forum where I presented my research [ReadmeReady](https://joss.theoj.org/papers/10.21105/joss.07489)
+
 * Apr 2025 - Our paper [ReadmeReady: Free and Customizable Code Documentation with LLMs - A Fine-Tuning Approach](https://joss.theoj.org/papers/10.21105/joss.07489) is published in [The Journal of Open Source Software](https://joss.theoj.org/). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
 
 * Apr 2025 - US Patent [Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html) published.
 
 * Apr 2025 - Our paper [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783) is published in [The Journal of Open Source Software](https://joss.theoj.org/). Read about it [here](https://medium.com/@souradipp43/smart-reasoning-mastering-multiple-choice-question-answering-with-vision-language-models-d4fc30e7594f)
 
-* Nov 2024 - I have accepted an offer as PhD Machine Learning Engineer intern from [Pinterest](https://www.pinterestcareers.com/) for summer 2025. I will be working in the Home Feed Recommendations team.
 
-* Sep 10, 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
+* Sep 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
+
+* Aug 2024 - I passed my PhD Qualification exam and became a PhD candidate.
 
 * December 18, 2023 - Featured in Department news: [Strong Northwestern CS Presence at the 2023 NeurIPS Conference](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html#:~:text=Northwestern%20contributions%20to%20the%20NeurIPS,%2C%20and%20Arghya%20Datta%20(Amazon))
 
