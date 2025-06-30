@@ -10,7 +10,7 @@ Paper Submitted<br>
 1. <b>Predicting Lattice Parameters from Atomic-Scale Images of Two Dimensional (2D) Materials Using Deep Learning</b><br>
 Paper Submitted<br>
 
-1. <b>Personalized Federated Learning through Clustering of Loss Vector Embeddings</b><br>
+1. <b>[Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427)</b><br>
 Paper Submitted<br>
 
 1. <b>[CLT and Edgeworth Expansion for m-out-of-n Bootstrap Estimators of The Studentized Median](https://arxiv.org/pdf/2505.11725)</b><br>
