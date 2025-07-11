@@ -16,8 +16,9 @@ Paper Submitted<br>
 1. <b>[CLT and Edgeworth Expansion for m-out-of-n Bootstrap Estimators of The Studentized Median](https://arxiv.org/pdf/2505.11725)</b><br>
 Paper Submitted<br>
 
-1. <b>An AI-driven framework for time-series processing-microstructure-property prediction</b><br>
-Paper Submitted<br>
+1. <b>[An AI-driven framework for time-series processing-microstructure-property prediction](https://www.nature.com/articles/s41598-025-06894-x)</b><br>
+[Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), Mahmudul Hasan, Md Maruf Billah, Youjia Li, Sayak Chakrabarty, Claire Songhyun Lee, Kewei Wang, Muhammed Nur Talha Kilic, Vishu Gupta, Wei-keng Liao, [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en), Pinar Acar & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
+<i>[Nature Scientific Reports](https://www.nature.com/srep/)</i>
 
 1. <b>[ReadmeReady: Free and Customizable Code Documentation with LLMs - A Fine-Tuning Approach](https://www.theoj.org/joss-papers/joss.07489/10.21105.joss.07489.pdf)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
