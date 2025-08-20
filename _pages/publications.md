@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>AI-Driven Prediction of Material Deformation: Stress-Strain Curves Faster Than Crystal Plasticity Finite Element Simulation</b><br>
+Paper Submitted<br>
+
 1. <b>Masked and Fair? Identifying and Mitigating Gender Cues in Academic Recommendation Letters with Interpretable NLP</b><br>
 Paper Submitted<br>
 
