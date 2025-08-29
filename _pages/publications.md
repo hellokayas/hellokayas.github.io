@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>Evaluating Large Language Models for Inverse Semiconductor Design </b><br>
+Paper Submitted<br>
+
 1. <b>AI-Driven Prediction of Material Deformation: Stress-Strain Curves Faster Than Crystal Plasticity Finite Element Simulation</b><br>
 Paper Submitted<br>
 

@@ -12,6 +12,8 @@ redirect_from:
 
 Recent News
 ------
+* Aug 2025 - I passed my PhD Prospectus exam. One more step to go!
+
 * July 2025 - I am working as Machine Learning Engineer at [Pinterest](https://www.pinterestcareers.com/departments/engineering/) for summer internship. I will be working in the Home Feed Ranking team in the Core Engineering Org.
 
 * May 2025 - Invited to talk at [Salesforce AI Research](https://www.salesforceairesearch.com/) forum where I presented my research [ReadmeReady](https://joss.theoj.org/papers/10.21105/joss.07489). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
