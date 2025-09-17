@@ -18,7 +18,7 @@ Education
 
 Internships
 ======
-* Summer 2025: Pinterest as a Machine Learning Engineer in the HomeFeed Recommendations team
+* Summer 2025: [Pinterest](https://www.pinterestcareers.com/departments/engineering/) as a Machine Learning Engineer in the HomeFeed Recommendations team
   * Developed and deployed PinRec, a generative AI–based ranking model to replace Pinterest’s legacy deep learning system (pinnability), applied across search, ranking, and retrieval.
   * Improved model performance beyond deep learning baselines by driving gains in repins, shares, and clicks through innovations such as user action sampling, role embeddings, and advanced architectures.
 
@@ -48,8 +48,8 @@ Internships
 
 Courses Completed at Northwestern
 ======
-* Spring 2021: Topics in Probability
-* Spring 2021: Randomized Algorithms
+* 2021: Topics in Probability
+* 2021: Randomized Algorithms
 * 2021: Mechanism Design
 * 2022: Graduate Algorithms
 * 2022: Foundations of Quantum Computation
@@ -71,6 +71,7 @@ Served as Reviewer
 * Integrating Materials and Manufacturing Innovation Journal
 * IEEE/CAA Journal of Automatica Sinica
 * Conference on Language Modeling (COLM 2025)
+* Neural Information Processing System 2025
 
 Master's Project
 ======
@@ -104,6 +105,7 @@ Technical and Language Skills
 Teaching Assistantships
 ======
 
+* Data Structures and Algorithms, 2025
 * Introduction to Data Science, 2025
 * Introduction to Computer Graphics, 2024
 * Design and Analysis of Algorithms, Northwestern University, 2024
@@ -113,6 +115,7 @@ Teaching Assistantships
 Talks
 ======
 
+* 2023 - Poster Presentation at NeurIPS 2023
 * 2023 - A constant lower bound for the union-closed sets, Venue: Northwestern University
 * 2017 - A Variant of Large Sieve, Venue: Institute of Mathematical Sciences
 * 2017 - Roth's Theorem, Venue: Institute of Mathematical Sciences
