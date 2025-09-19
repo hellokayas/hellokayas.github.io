@@ -12,6 +12,8 @@ redirect_from:
 
 Recent News
 ------
+* Sep 2025 - Our paper [Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/abs/2505.11725) accepted in NeurIPS 2025! See ya in San Diego!! Congrats to [Imon Banerjee](https://ibanerj750.github.io/)
+
 * Aug 2025 - I passed my PhD Prospectus exam. One more step to go!
 
 * Aug 2025 - Completed my internship as Machine Learning Engineer at [Pinterest](https://www.pinterestcareers.com/departments/engineering/). [Recommendation](https://www.linkedin.com/in/sayak-chakrabarty-cs/details/recommendations/) from my manager!
