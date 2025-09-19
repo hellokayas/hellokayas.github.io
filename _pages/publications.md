@@ -25,7 +25,7 @@ Paper Submitted<br>
 
 1. <b>[Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/pdf/2505.11725)</b><br>
 [Imon Banerjee](https://ibanerj750.github.io/), Sayak Chakrabarty<br>
-<i>The Thirty-ninth Annual Conference on Neural Information Processing Systems(NeurIPS, 2025)</i>
+<i>Thirty-ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)</i>
 
 1. <b>[An AI-driven framework for time-series processing-microstructure-property prediction](https://www.nature.com/articles/s41598-025-06894-x)</b><br>
 [Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), Mahmudul Hasan, Md Maruf Billah, Youjia Li, Sayak Chakrabarty, Claire Songhyun Lee, Kewei Wang, Muhammed Nur Talha Kilic, Vishu Gupta, Wei-keng Liao, [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en), Pinar Acar & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
