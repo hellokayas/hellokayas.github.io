@@ -72,6 +72,7 @@ Served as Reviewer
 * IEEE/CAA Journal of Automatica Sinica
 * Conference on Language Modeling (COLM 2025)
 * Neural Information Processing System 2025
+* Served as judge for programming contest [HackDartmouth 2021](https://hackdartmouth-virtual.devpost.com/)
 
 Master's Project
 ======
