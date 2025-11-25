@@ -18,7 +18,8 @@ Paper Submitted<br>
 Paper Submitted<br>
 
 1. <b>Predicting Lattice Parameters from Atomic-Scale Images of Two Dimensional (2D) Materials Using Deep Learning</b><br>
-Paper Submitted<br>
+Sayak Chakrabarty, [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
+<i>[The Journal of Physical Chemistry C](https://pubs.acs.org/journal/jpccck)</i>
 
 1. <b>[Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427)</b><br>
 Paper Submitted<br>
