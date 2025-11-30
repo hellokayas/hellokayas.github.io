@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction </b><br>
+Paper Submitted<br>
+
 1. <b>Evaluating Large Language Models for Inverse Semiconductor Design </b><br>
 Paper Submitted<br>
 
