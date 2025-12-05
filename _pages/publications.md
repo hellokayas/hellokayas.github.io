@@ -17,8 +17,9 @@ Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?us
 1. <b>Masked and Fair? Identifying and Mitigating Gender Cues in Academic Recommendation Letters with Interpretable NLP</b><br>
 Paper Submitted<br>
 
-1. <b>Is Sliding Window All You Need? Reproducing Industrial‑Scale Long‑Sequence Training for Recommender Systems</b><br>
-Paper Submitted<br>
+1. <b>[Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce]()</b><br>
+Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
+<i>[International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx)</i>
 
 1. <b>Predicting Lattice Parameters from Atomic-Scale Images of Two Dimensional (2D) Materials Using Deep Learning</b><br>
 Sayak Chakrabarty, [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
