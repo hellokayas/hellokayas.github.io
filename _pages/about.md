@@ -12,7 +12,9 @@ redirect_from:
 
 Recent News
 ------
-* Sep 2025 - Our paper [Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/abs/2505.11725) accepted in NeurIPS 2025! See ya in San Diego!! Congrats to [Imon Banerjee](https://ibanerj750.github.io/)
+* Dec 2025 - Our paper [Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce]() accepted in [International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx). My coathor [Souradip Pal](https://souradipp76.github.io/) would be in Spain for the oral presentation.
+
+* Sep 2025 - Our paper [Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/abs/2505.11725) accepted in NeurIPS 2025! Congrats to [Imon Banerjee](https://ibanerj750.github.io/)
 
 * Aug 2025 - I passed my PhD Prospectus exam. One more step to go!
 
@@ -21,8 +23,6 @@ Recent News
 * May 2025 - Invited to talk at [Salesforce AI Research](https://www.salesforceairesearch.com/) forum where I presented my research [ReadmeReady](https://joss.theoj.org/papers/10.21105/joss.07489). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
 
 * Apr 2025 - US Patent [Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html) published.
-
-* Apr 2025 - Our paper [MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models](https://joss.theoj.org/papers/10.21105/joss.07783) is published in [The Journal of Open Source Software](https://joss.theoj.org/). Read about it [here](https://medium.com/@souradipp43/smart-reasoning-mastering-multiple-choice-question-answering-with-vision-language-models-d4fc30e7594f)
 
 * Sep 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
 
