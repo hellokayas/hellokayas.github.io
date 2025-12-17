@@ -17,7 +17,7 @@ Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?us
 1. <b>Masked and Fair? Identifying and Mitigating Gender Cues in Academic Recommendation Letters with Interpretable NLP</b><br>
 Paper Submitted<br>
 
-1. <b>[Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce]()</b><br>
+1. <b>[Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce](https://arxiv.org/pdf/2512.13726)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx)</i>
 
