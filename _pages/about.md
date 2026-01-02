@@ -12,17 +12,15 @@ redirect_from:
 
 Recent News
 ------
+* Jan 2026 - Our paper [PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation]() accepted in [Science and Information Computing Conference 2026](https://saiconference.com/Computing) and it will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179).
+
 * Dec 2025 - Our paper [Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce]() accepted in [International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx). My coathor [Souradip Pal](https://souradipp76.github.io/) would be in Spain for the oral presentation.
 
 * Sep 2025 - Our paper [Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/abs/2505.11725) accepted in NeurIPS 2025! Congrats to [Imon Banerjee](https://ibanerj750.github.io/)
 
 * Aug 2025 - I passed my PhD Prospectus exam. One more step to go!
 
-* Aug 2025 - Completed my internship as Machine Learning Engineer at [Pinterest](https://www.pinterestcareers.com/departments/engineering/). [Recommendation](https://www.linkedin.com/in/sayak-chakrabarty-cs/details/recommendations/) from my manager!
-
 * May 2025 - Invited to talk at [Salesforce AI Research](https://www.salesforceairesearch.com/) forum where I presented my research [ReadmeReady](https://joss.theoj.org/papers/10.21105/joss.07489). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
-
-* Apr 2025 - US Patent [Judicial Support Tool Computing System](https://www.freepatentsonline.com/y2025/0111457.html) published.
 
 * Sep 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
 
