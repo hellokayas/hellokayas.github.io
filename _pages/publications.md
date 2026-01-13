@@ -8,7 +8,7 @@ author_profile: true
 [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), Sayak Chakrabarty, [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[Digital Discovery](https://www.rsc.org/publishing/journals/digital-discovery)</i>
 
-1. <b>[PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation]()</b><br>
+1. <b>[PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation](https://arxiv.org/pdf/2601.06458)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[Science and Information Computing Conference 2026](https://saiconference.com/Computing)</i><br>
 <i>Will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179)</i>

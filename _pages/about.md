@@ -12,7 +12,7 @@ redirect_from:
 
 Recent News
 ------
-* Jan 2026 - Our paper [PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation]() accepted in [Science and Information Computing Conference 2026](https://saiconference.com/Computing) and it will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179).
+* Jan 2026 - Our paper [PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation](https://arxiv.org/pdf/2601.06458) accepted in [Science and Information Computing Conference 2026](https://saiconference.com/Computing) and it will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179).
 
 * Dec 2025 - Our paper [Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce]() accepted in [International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx). My coathor [Souradip Pal](https://souradipp76.github.io/) would be in Spain for the oral presentation.
 
