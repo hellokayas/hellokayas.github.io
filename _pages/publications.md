@@ -4,17 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. <b>Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction </b><br>
-[Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), Sayak Chakrabarty, [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
+1. <b>[Evaluating Large Language Models for Inverse Semiconductor Design](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00544b)</b><br>
+[Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/),[Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), Sayak Chakrabarty, [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[Digital Discovery](https://www.rsc.org/publishing/journals/digital-discovery)</i>
 
 1. <b>[PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation](https://arxiv.org/pdf/2601.06458)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[Science and Information Computing Conference 2026](https://saiconference.com/Computing)</i><br>
 <i>Will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179)</i>
-
-1. <b>Evaluating Large Language Models for Inverse Semiconductor Design </b><br>
-Paper Submitted<br>
 
 1. <b>AI-Driven Prediction of Material Deformation: Stress-Strain Curves Faster Than Crystal Plasticity Finite Element Simulation</b><br>
 Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?user=6FYL0Z0AAAAJ&hl=en), [Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), [Andrew Reid](https://www.nist.gov/people/andrew-ce-reid), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
