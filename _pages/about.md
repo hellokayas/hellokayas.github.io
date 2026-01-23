@@ -14,7 +14,7 @@ Recent News
 ------
 * Jan 2026 - Our paper [PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation](https://arxiv.org/pdf/2601.06458) accepted in [Science and Information Computing Conference 2026](https://saiconference.com/Computing) and it will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179).
 
-* Dec 2025 - Our paper [Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce]() accepted in [International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx). My coathor [Souradip Pal](https://souradipp76.github.io/) would be in Spain for the oral presentation.
+* Dec 2025 - Our paper [Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce](https://arxiv.org/pdf/2512.13726) accepted in [International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx). My coathor [Souradip Pal](https://souradipp76.github.io/) would be in Spain for the oral presentation.
 
 * Sep 2025 - Our paper [Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/abs/2505.11725) accepted in NeurIPS 2025! Congrats to [Imon Banerjee](https://ibanerj750.github.io/)
 
