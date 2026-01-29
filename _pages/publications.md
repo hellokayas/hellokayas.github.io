@@ -4,6 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>Masked and Fair? Identifying and Mitigating Gender Cues in Academic Recommendation Letters with Interpretable NLP</b><br>
+Paper Submitted<br>
+
+1. <b>Adaptive Model Selection in Offline Contextual MDP's without Stationarity</b><br>
+Paper Submitted<br>
+
+1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
+Paper Submitted<br>
+
+1. <b>[Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427)</b><br>
+Paper Submitted<br>
+
 1. <b>[Evaluating Large Language Models for Inverse Semiconductor Design](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00544b)</b><br>
 [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/),[Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), Sayak Chakrabarty, [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[Digital Discovery](https://www.rsc.org/publishing/journals/digital-discovery)</i>
@@ -17,12 +29,6 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?user=6FYL0Z0AAAAJ&hl=en), [Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), [Andrew Reid](https://www.nist.gov/people/andrew-ce-reid), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[International Conference on Machine Learning and Applications 2025](https://www.icmla-conference.org/icmla25/index.php)</i>
 
-1. <b>Masked and Fair? Identifying and Mitigating Gender Cues in Academic Recommendation Letters with Interpretable NLP</b><br>
-Paper Submitted<br>
-
-1. <b>Adaptive Model Selection in Offline Contextual MDP's without Stationarity</b><br>
-Paper Submitted<br>
-
 1. <b>[Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce](https://arxiv.org/pdf/2512.13726)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx)</i>
@@ -30,9 +36,6 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 1. <b>[Predicting Lattice Parameters from Atomic-Scale Images of Two Dimensional (2D) Materials Using Deep Learning](https://pubs.acs.org/doi/10.1021/acs.jpcc.5c04792)</b><br>
 Sayak Chakrabarty, [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[The Journal of Physical Chemistry C](https://pubs.acs.org/journal/jpccck)</i>
-
-1. <b>[Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427)</b><br>
-Paper Submitted<br>
 
 1. <b>[Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/pdf/2505.11725)</b><br>
 [Imon Banerjee](https://ibanerj750.github.io/), Sayak Chakrabarty<br>
