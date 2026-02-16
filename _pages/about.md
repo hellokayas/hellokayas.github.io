@@ -16,8 +16,6 @@ Recent News
 
 * Dec 2025 - Our paper [Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce](https://arxiv.org/pdf/2512.13726) accepted in [International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx). My coathor [Souradip Pal](https://souradipp76.github.io/) would be in Spain for the oral presentation.
 
-* Sep 2025 - Our paper [Small Resamples, Sharp Guarantees: Convergence Rates for Resampled Studentized Quantile Estimators](https://arxiv.org/abs/2505.11725) accepted in NeurIPS 2025! Congrats to [Imon Banerjee](https://ibanerj750.github.io/)
-
 * Aug 2025 - I passed my PhD Prospectus exam. One more step to go!
 
 * May 2025 - Invited to talk at [Salesforce AI Research](https://www.salesforceairesearch.com/) forum where I presented my research [ReadmeReady](https://joss.theoj.org/papers/10.21105/joss.07489). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)

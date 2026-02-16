@@ -18,6 +18,8 @@ Education
 
 Internships
 ======
+* Summer 2026: [DoorDash](https://careersatdoordash.com/career-areas/ai-ml/) as a Machine Learning Engineer in the Ads Recommendations team
+
 * Summer 2025: [Pinterest](https://www.pinterestcareers.com/departments/engineering/) as a Machine Learning Engineer in the HomeFeed Recommendations team
   * Developed and deployed PinRec, a generative AI–based ranking model to replace Pinterest’s legacy deep learning system (pinnability), applied across search, ranking, and retrieval. [Recommendation](https://www.linkedin.com/in/sayak-chakrabarty-cs/details/recommendations/) from my manager!
   * Improved model performance beyond deep learning baselines by driving gains in repins, shares, and clicks through innovations such as user action sampling, role embeddings, and advanced architectures.
