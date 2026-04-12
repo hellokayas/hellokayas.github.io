@@ -7,6 +7,11 @@ author_profile: true
 1. <b>Masked and Fair? Identifying and Mitigating Gender Cues in Academic Recommendation Letters with Interpretable NLP</b><br>
 Paper Submitted<br>
 
+1. <b>[Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation]()</b><br>
+Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
+<i>[The (IEEE) 2026 International Conference on Revolutionary Artificial Intelligence and Future Applications
+(Rev-AI 2026)](https://rev-ai.org/)</i>
+
 1. <b>Adaptive Model Selection in Offline Contextual MDP's without Stationarity</b><br>
 Paper Submitted<br>
 
@@ -32,7 +37,7 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?user=6FYL0Z0AAAAJ&hl=en), [Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), [Andrew Reid](https://www.nist.gov/people/andrew-ce-reid), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[International Conference on Machine Learning and Applications 2025](https://www.icmla-conference.org/icmla25/index.php)</i>
 
-1. <b>[Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce](https://www.scitepress.org/PublicationsDetail.aspx?ID=BTRCYsHFmiU=&t=1)</b><br>
+1. <b>[Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce](https://www.scitepress.org/Papers/2025/139234/139234.pdf)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx)</i>
 
