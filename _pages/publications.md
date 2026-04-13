@@ -33,7 +33,7 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[Science and Information Computing Conference 2026](https://saiconference.com/Computing)</i><br>
 <i>Will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179)</i>
 
-1. <b>AI-Driven Prediction of Material Deformation: Stress-Strain Curves Faster Than Crystal Plasticity Finite Element Simulation</b><br>
+1. <b>[AI-Driven Prediction of Material Deformation: Stress-Strain Curves Faster Than Crystal Plasticity Finite Element Simulation](https://ieeexplore.ieee.org/document/11471533)</b><br>
 Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?user=6FYL0Z0AAAAJ&hl=en), [Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), [Andrew Reid](https://www.nist.gov/people/andrew-ce-reid), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[International Conference on Machine Learning and Applications 2025](https://www.icmla-conference.org/icmla25/index.php)</i>
 
