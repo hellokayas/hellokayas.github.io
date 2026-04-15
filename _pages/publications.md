@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. <b>Masked and Fair? Identifying and Mitigating Gender Cues in Academic Recommendation Letters with Interpretable NLP</b><br>
+1. <b>[Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study](https://arxiv.org/abs/2604.12337)</b><br>
 Paper Submitted<br>
 
 1. <b>[Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation]()</b><br>
