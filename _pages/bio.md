@@ -66,14 +66,20 @@ Courses Completed at Northwestern
 Served as Reviewer
 ======
 
-* International Conference on Data Mining (ICDM 2024)
-* European Symposium on Algorithms (ESA 2024)
-* Nature Scientific Reports
+* International Conference on Machine Learning (ICML 2026 (5))
+* International Conference on Artificial Neural Networks (ICANN 2026 (4))
+* Uncertainty in Artificial Intelligence (UAI 2026 (4))
+* Neural Information Processing Systems (NeurIPS 2025)
+* IEEE/CAA Journal of Automatica Sinica (6)
+* International Conference on Machine Learning and Applications (ICMLA 2025 (2))
+* IEEE Transactions on Computational Social Systems
+* International Conference on Artificial Intelligence and Statistics (AISTATS 2026 (2))
+* Conference on Language Modelling (COLM 2025 (2),2026 (3))
+* International Conference on Data Mining (ICDM 2024(2), 2025(2))
+* European Symposium on Algorithms (ESA 2024,2025)
+* Nature Scientific Reports (2)
 * BigData 2024
 * Integrating Materials and Manufacturing Innovation Journal
-* IEEE/CAA Journal of Automatica Sinica
-* Conference on Language Modeling (COLM 2025)
-* Neural Information Processing System 2025
 * Served as judge for programming contest [HackDartmouth 2021](https://hackdartmouth-virtual.devpost.com/)
 
 Master's Project
