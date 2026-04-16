@@ -7,7 +7,7 @@ author_profile: true
 1. <b>[Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study](https://arxiv.org/abs/2604.12337)</b><br>
 Paper Submitted<br>
 
-1. <b>[Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation]()</b><br>
+1. <b>[Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation](https://arxiv.org/pdf/2604.12372)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[The (IEEE) 2026 International Conference on Revolutionary Artificial Intelligence and Future Applications
 (Rev-AI 2026)](https://rev-ai.org/)</i>
