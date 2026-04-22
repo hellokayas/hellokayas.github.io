@@ -7,14 +7,6 @@ author_profile: true
 1. <b>[Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study](https://arxiv.org/abs/2604.12337)</b><br>
 Paper Submitted<br>
 
-1. <b>[Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation](https://arxiv.org/pdf/2604.12372)</b><br>
-Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
-<i>[The (IEEE) 2026 International Conference on Revolutionary Artificial Intelligence and Future Applications
-(Rev-AI 2026)](https://rev-ai.org/)</i>
-
-1. <b>Adaptive Model Selection in Offline Contextual MDP's without Stationarity</b><br>
-Paper Submitted<br>
-
 1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
 Paper Submitted<br>
 
@@ -23,6 +15,15 @@ Paper Submitted<br>
 
 1. <b>Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction</b><br>
 Paper Submitted<br>
+
+1. <b>[Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation](https://arxiv.org/pdf/2604.12372)</b><br>
+Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
+<i>[The (IEEE) 2026 International Conference on Revolutionary Artificial Intelligence and Future Applications
+(Rev-AI 2026)](https://rev-ai.org/)</i>
+
+1. <b>Adaptive Model Selection in Offline Contextual MDP's without Stationarity</b><br>
+[Riddhiman Bhattacharya](https://scholar.google.com/citations?user=fdyRnbgAAAAJ&hl=en), [Imon Banerjee](https://ibanerj750.github.io/), Sayak Chakrabarty<br>
+<i>[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/)</i>
 
 1. <b>[Evaluating Large Language Models for Inverse Semiconductor Design](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00544b)</b><br>
 [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/),[Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), Sayak Chakrabarty, [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
