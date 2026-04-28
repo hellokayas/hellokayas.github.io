@@ -21,8 +21,8 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[The (IEEE) 2026 International Conference on Revolutionary Artificial Intelligence and Future Applications
 (Rev-AI 2026)](https://rev-ai.org/)</i>
 
-1. <b>Adaptive Model Selection in Offline Contextual MDP's without Stationarity</b><br>
-[Riddhiman Bhattacharya](https://scholar.google.com/citations?user=fdyRnbgAAAAJ&hl=en), [Imon Banerjee](https://ibanerj750.github.io/), Sayak Chakrabarty<br>
+1. <b>[Adaptive Model Selection in Offline Contextual MDP's without Stationarity](https://openreview.net/pdf?id=FGBZ4q1HPZ)</b><br>
+[Riddhiman Bhattacharya](https://scholar.google.com/citations?user=fdyRnbgAAAAJ&hl=en), Sayak Chakrabarty, [Imon Banerjee](https://ibanerj750.github.io/)<br>
 <i>[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/)</i>
 
 1. <b>[Evaluating Large Language Models for Inverse Semiconductor Design](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00544b)</b><br>
