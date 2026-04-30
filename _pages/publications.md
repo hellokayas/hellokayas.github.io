@@ -10,11 +10,12 @@ Paper Submitted<br>
 1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
 Paper Submitted<br>
 
-1. <b>[Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427)</b><br>
-Paper Submitted<br>
-
 1. <b>Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction</b><br>
 Paper Submitted<br>
+
+1. <b>[Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427)</b><br>
+[Randeep Bhatia](https://scholar.google.com/citations?user=Iia81jAAAAAJ&hl=en),[Nikos Papadis](https://scholar.google.com/citations?user=FtAx7CIAAAAJ&hl=en),[Murali Kodialam](https://www.nokia.com/people/murali-kodialam/),[T. V. Lakshman](https://scholar.google.com/citations?user=EzDbOKoAAAAJ&hl=en),Sayak Chakrabarty<br>
+<i>[International Conference on Machine Learning (ICML 2026)](https://icml.cc/)</i>
 
 1. <b>[Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation](https://arxiv.org/pdf/2604.12372)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>

@@ -25,7 +25,7 @@ Internships
   * Improved model performance beyond deep learning baselines by driving gains in repins, shares, and clicks through innovations such as user action sampling, role embeddings, and advanced architectures.
 
 * Summer 2024: Research Internship at [Nokia Bell Labs](https://www.bell-labs.com/research-innovation/ai-software-systems/)
-  * Submitted our paper "Personalized Federated Learning through Clustering of Loss Vector Embeddings"
+  * Our paper [Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427) accepted in [International Conference on Machine Learning (ICML 2026)](https://icml.cc/)
   * Tech stack: Python, Numpy, Pandas, Scikeat-Learn, PyTorch, Matplotlib, Seaborn, Git
 
 * Summer 2023: Research Intern

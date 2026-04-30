@@ -12,7 +12,7 @@ redirect_from:
 
 Recent News
 ------
-* Jan 2026 - Our paper [PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation](https://arxiv.org/pdf/2601.06458) accepted in [Science and Information Computing Conference 2026](https://saiconference.com/Computing) and it will appear as chapter of [Lecture Notes in Networks and Systems](https://link.springer.com/series/15179).
+* Apr 2026 - Our paper [Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427) accepted in [International Conference on Machine Learning (ICML 2026)](https://icml.cc/). This was my summer internship project at Bell-Labs.
 
 * Aug 2025 - I passed my PhD Prospectus exam. One more step to go!
 
