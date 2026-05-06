@@ -11,7 +11,8 @@ Paper Submitted<br>
 Paper Submitted<br>
 
 1. <b>Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction</b><br>
-Paper Submitted<br>
+[Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/),[Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), Sayak Chakrabarty, [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
+<i>[Machine Learning: Science and Technology](https://iopscience.iop.org/journal/2632-2153)</i>
 
 1. <b>[Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427)</b><br>
 [Randeep Bhatia](https://scholar.google.com/citations?user=Iia81jAAAAAJ&hl=en),[Nikos Papadis](https://scholar.google.com/citations?user=FtAx7CIAAAAJ&hl=en),[Murali Kodialam](https://www.nokia.com/people/murali-kodialam/),[T. V. Lakshman](https://scholar.google.com/citations?user=EzDbOKoAAAAJ&hl=en),Sayak Chakrabarty<br>
