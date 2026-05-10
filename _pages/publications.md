@@ -10,7 +10,7 @@ Paper Submitted<br>
 1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
 Paper Submitted<br>
 
-1. <b>Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction</b><br>
+1. <b>[Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction](https://iopscience.iop.org/article/10.1088/2632-2153/ae696b/pdf)</b><br>
 [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/),[Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), Sayak Chakrabarty, [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[Machine Learning: Science and Technology](https://iopscience.iop.org/journal/2632-2153)</i>
 
