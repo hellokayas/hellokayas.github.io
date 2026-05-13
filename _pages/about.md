@@ -12,7 +12,7 @@ redirect_from:
 
 Recent News
 ------
-* May 2026 - I am obliged to be recognized at a Gold Reviewer (top 25 percent) at the (ICML 2026)](https://icml.cc/).
+* May 2026 - I am obliged to be recognized at a Gold Reviewer (top 25 percent) at the [ICML 2026](https://icml.cc/).
 
 * Apr 2026 - Our paper [Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427) accepted in [International Conference on Machine Learning (ICML 2026)](https://icml.cc/). This was my summer internship project at Bell-Labs.
 
