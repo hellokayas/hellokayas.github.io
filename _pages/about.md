@@ -12,6 +12,8 @@ redirect_from:
 
 Recent News
 ------
+* May 2026 - I am obliged to be recognized at a Gold Reviewer (top 25 percent) at the (ICML 2026)](https://icml.cc/).
+
 * Apr 2026 - Our paper [Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427) accepted in [International Conference on Machine Learning (ICML 2026)](https://icml.cc/). This was my summer internship project at Bell-Labs.
 
 * Aug 2025 - I passed my PhD Prospectus exam. One more step to go!
@@ -19,8 +21,6 @@ Recent News
 * May 2025 - Invited to talk at [Salesforce AI Research](https://www.salesforceairesearch.com/) forum where I presented my research [ReadmeReady](https://joss.theoj.org/papers/10.21105/joss.07489). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
 
 * Sep 2024 - I have been selected as [Predictive Science and Engineering Design](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/) cluster fellow. I will be working on the project "Adapting LLMs to Design Parts for Manufacture".
-
-* Aug 2024 - I passed my PhD Qualification exam and became a PhD candidate.
 
 * December 18, 2023 - Featured in Department news: [Strong Northwestern CS Presence at the 2023 NeurIPS Conference](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html#:~:text=Northwestern%20contributions%20to%20the%20NeurIPS,%2C%20and%20Arghya%20Datta%20(Amazon))
 
