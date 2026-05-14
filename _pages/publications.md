@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>Can Vision-Language Models Predict Atomic Structures of 2D Materials?</b><br>
+Paper Submitted<br>
+
 1. <b>[Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study](https://arxiv.org/abs/2604.12337)</b><br>
 Paper Submitted<br>
 
