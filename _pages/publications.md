@@ -13,6 +13,14 @@ Paper Submitted<br>
 1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
 Paper Submitted<br>
 
+1. <b>[DeepSeekMath Meets Order Book: Group-Aware Policy Optimization for High-Frequency Directional Trading]()</b><br>
+[Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty<br>
+<i>[The International Conference on Data Science, Technology and Applications (DATA 2026)](https://data.scitevents.org/)</i>
+
+1. <b>[CITRUS: Screening the Past, Ranking the Future]()</b><br>
+[Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty, [Imon Banerjee](https://ibanerj750.github.io/)<br>
+<i>[The International Conference on Data Science, Technology and Applications (DATA 2026)](https://data.scitevents.org/)</i>
+
 1. <b>[Determinism Analysis in Hybrid-LLM-GNN Modeling for Materials Property Prediction](https://iopscience.iop.org/article/10.1088/2632-2153/ae696b/pdf)</b><br>
 [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/),[Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), Sayak Chakrabarty, [Wei Keng Liao](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/liao-wei-keng.html), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[Machine Learning: Science and Technology](https://iopscience.iop.org/journal/2632-2153)</i>
