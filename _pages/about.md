@@ -12,6 +12,8 @@ redirect_from:
 
 Recent News
 ------
+* May 2026 - I am excited to be featured by Northwestern Feinberg School of Medicine for applications of [AI in Medicine](https://www.feinberg.northwestern.edu/sites/artificial-intelligence/news-events/2026/2026-codeathon.html).
+
 * May 2026 - I am excited to be recognized as a Gold Reviewer (top 25 percent) at the [ICML 2026](https://icml.cc/) and getting free registration.
 
 * Apr 2026 - Our paper [Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427) accepted in [International Conference on Machine Learning (ICML 2026)](https://icml.cc/). This was my summer internship project at Bell-Labs.
