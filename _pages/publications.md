@@ -16,6 +16,7 @@ Paper Submitted<br>
 1. <b>[DeepSeekMath Meets Order Book: Group-Aware Policy Optimization for High-Frequency Directional Trading](https://arxiv.org/pdf/2605.25527)</b><br>
 [Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty<br>
 <i>[The International Conference on Data Science, Technology and Applications (DATA 2026)](https://data.scitevents.org/)</i>
+<i>[Our Code](https://github.com/hellokayas/DeepSeek-HFT)</i>
 
 1. <b>[CITRUS: Screening the Past, Ranking the Future]()</b><br>
 [Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty, [Imon Banerjee](https://ibanerj750.github.io/)<br>
