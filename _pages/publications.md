@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>XNano: Using XAI to Explain How Preprocessing Affects Nanoparticle Image Classification</b><br>
+Paper Submitted<br>
+
 1. <b>Can Vision-Language Models Predict Atomic Structures of 2D Materials?</b><br>
 Paper Submitted<br>
 
