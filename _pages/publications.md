@@ -18,7 +18,7 @@ Paper Submitted<br>
 
 1. <b>[DeepSeekMath Meets Order Book: Group-Aware Policy Optimization for High-Frequency Directional Trading](https://arxiv.org/pdf/2605.25527)</b><br>
 [Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty<br>
-<i>[The International Conference on Data Science, Technology and Applications (DATA 2026)](https://data.scitevents.org/)</i>
+<i>[The International Conference on Data Science, Technology and Applications (DATA 2026)](https://data.scitevents.org/)</i><br>
 <i>[Our Code](https://github.com/hellokayas/DeepSeek-HFT)</i>
 
 1. <b>[CITRUS: Screening the Past, Ranking the Future]()</b><br>
@@ -49,7 +49,7 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 1. <b>[PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation](https://arxiv.org/pdf/2601.06458)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 <i>[Science and Information Computing Conference 2026](https://saiconference.com/Computing)</i><br>
-<i>Will appear as chapter of [Intelligent Computing](https://link.springer.com/book/9783032248091)</i>
+<i>Will appear as chapter of [LNNS]()</i>
 
 1. <b>[AI-Driven Prediction of Material Deformation: Stress-Strain Curves Faster Than Crystal Plasticity Finite Element Simulation](https://ieeexplore.ieee.org/document/11471533)</b><br>
 Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?user=6FYL0Z0AAAAJ&hl=en), [Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), [Andrew Reid](https://www.nist.gov/people/andrew-ce-reid), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
@@ -57,7 +57,8 @@ Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?us
 
 1. <b>[Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce](https://www.scitepress.org/Papers/2026/142980/142980.pdf)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
-<i>[International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx)</i>
+<i>[International Conference on Pattern Recognition Applications and Methods 2026](https://icpram.scitevents.org/presentationdetails.aspx)</i><br>
+<i>Will appear as chapter of [IC]()</i>
 
 1. <b>[Predicting Lattice Parameters from Atomic-Scale Images of Two Dimensional (2D) Materials Using Deep Learning](https://pubs.acs.org/doi/10.1021/acs.jpcc.5c04792)</b><br>
 Sayak Chakrabarty, [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
