@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>An LLM-Powered Interactive Web-Based Registry Browser for Longitudinal Systemic Sclerosis Electronic Health Record Analysis</b><br>
+Paper Submitted<br>
+
 1. <b>XNano: Using XAI to Explain How Preprocessing Affects Nanoparticle Image Classification</b><br>
 Paper Submitted<br>
 
