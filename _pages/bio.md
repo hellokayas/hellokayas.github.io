@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Northwestern University, 2021-Present
-* Masters in Computer Science, Northwestern University, 2021- 2023
-* Masters of Mathematics(MMath), Indian Statistical Institute(Kolkata), 2020
-* Bachelors of Science(hons) in Mathematics and Computer Science, Chennai Mathematical Institute, 2018
+* Ph.D in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021-Present
+* Masters in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021- 2023
+* Masters of Mathematics(MMath), [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), 2020
+* Bachelors of Science(hons) in Mathematics and Computer Science, [Chennai Mathematical Institute](https://www.cmi.ac.in/), 2018
+* High School Education from [South Point High School](https://southpoint.ac.in/), 2015
+* Fun Fact: My Erdos number is 3. Erdos -> Noga Alon -> K. Makarychev -> MEEEEE!! You can find yours from [here](https://www.csauthors.net/distance/paul-erdos/sayak-chakrabarty)
 
 Internships
 ======
@@ -71,7 +73,7 @@ Served as Reviewer
 * Uncertainty in Artificial Intelligence (UAI 2026 (4))
 * Neural Information Processing Systems (NeurIPS 2025)
 * IEEE/CAA Journal of Automatica Sinica (6)
-* International Conference on Machine Learning and Applications (ICMLA 2025 (2))
+* International Conference on Machine Learning and Applications (ICMLA 2025 (2), ICMLA 2026 (8))
 * IEEE Transactions on Computational Social Systems
 * International Conference on Artificial Intelligence and Statistics (AISTATS 2026 (2))
 * Conference on Language Modelling (COLM 2025 (2),2026 (3))
@@ -124,6 +126,8 @@ Teaching Assistantships
 Talks
 ======
 
+* 2025 - ReadmeReady: Free and Customizable Code Documentation with LLMs, Venue: Salesforce AI Research Future Forum
+* 2025 - Poster Presentation at ICMLA 2025
 * 2023 - Poster Presentation at NeurIPS 2023
 * 2023 - A constant lower bound for the union-closed sets, Venue: Northwestern University
 * 2017 - A Variant of Large Sieve, Venue: Institute of Mathematical Sciences
