@@ -10,14 +10,19 @@ Paper Submitted<br>
 1. <b>XNano: Using XAI to Explain How Preprocessing Affects Nanoparticle Image Classification</b><br>
 Paper Submitted<br>
 
-1. <b>Can Vision-Language Models Predict Atomic Structures of 2D Materials?</b><br>
-Paper Submitted<br>
-
 1. <b>[Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study](https://arxiv.org/abs/2604.12337)</b><br>
 Paper Submitted<br>
 
 1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
 Paper Submitted<br>
+
+1. <b>Stable History, Better Rankings: Invariant Parent Selection with Geodesic Attention for Recommenders</b><br>
+Sayak Chakrabarty, [Souradip Pal](https://souradipp76.github.io/), [Imon Banerjee](https://ibanerj750.github.io/)<br>
+<i>[25th International Conference on Machine Learning and Applications (ICMLA 2026)](https://www.icmla-conference.org/icmla26/)</i>
+
+1. <b>Can Vision-Language Models Predict Atomic Structures of 2D Materials?</b><br>
+Sayak Chakrabarty, [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
+<i>[25th International Conference on Machine Learning and Applications (ICMLA 2026)](https://www.icmla-conference.org/icmla26/)</i>
 
 1. <b>[DeepSeekMath Meets Order Book: Group-Aware Policy Optimization for High-Frequency Directional Trading](https://arxiv.org/pdf/2605.25527)</b><br>
 [Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty<br>
