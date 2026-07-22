@@ -24,12 +24,12 @@ Sayak Chakrabarty, [Souradip Pal](https://souradipp76.github.io/), [Imon Banerje
 Sayak Chakrabarty, [Kamal Choudhary](https://engineering.jhu.edu/faculty/kamal-choudhary/), [Daniel Wines](https://www.nist.gov/people/daniel-wines), [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Vishu Gupta](https://scholar.google.com/citations?user=964aU-4AAAAJ&hl=en), [Muhammed Nur Talha Kilic](https://www.linkedin.com/in/mntalhakilic/), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
 <i>[25th International Conference on Machine Learning and Applications (ICMLA 2026)](https://www.icmla-conference.org/icmla26/)</i>
 
-1. <b>[DeepSeekMath Meets Order Book: Group-Aware Policy Optimization for High-Frequency Directional Trading](https://arxiv.org/pdf/2605.25527)</b><br>
+1. <b>[DeepSeekMath Meets Order Book: Group-Aware Policy Optimization for High-Frequency Directional Trading](https://www.scitepress.org/Link.aspx?doi=10.5220/0015139200004091)</b><br>
 [Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty<br>
 <i>[The International Conference on Data Science, Technology and Applications (DATA 2026)](https://data.scitevents.org/)</i><br>
 <i>[Our Code](https://github.com/hellokayas/DeepSeek-HFT)</i>
 
-1. <b>[CITRUS: Screening the Past, Ranking the Future]()</b><br>
+1. <b>[CITRUS: Screening the Past, Ranking the Future](https://www.scitepress.org/Link.aspx?doi=10.5220/0015134100004091)</b><br>
 [Souradip Pal](https://souradipp76.github.io/), Sayak Chakrabarty, [Imon Banerjee](https://ibanerj750.github.io/)<br>
 <i>[The International Conference on Data Science, Technology and Applications (DATA 2026)](https://data.scitevents.org/)</i>
 
