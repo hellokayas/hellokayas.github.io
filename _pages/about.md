@@ -12,13 +12,13 @@ I am actively seeking new-grad ML roles in the industry. If you like my profile,
 
 Recent News
 ------
+* August 2026 - First [book chapter](https://link.springer.com/chapter/10.1007/978-3-032-24810-7_46) published: pp 763-775 of [Lecture Notes in Networks and Systems (volume 1951)](https://link.springer.com/series/15179).
+
 * July 2026 - Paper accepted at ICMLA 2026! Excited to visit Rochester, Michigan.
 
 * May 2026 - I am excited to be featured by Northwestern Feinberg School of Medicine for applications of [AI in Medicine](https://www.feinberg.northwestern.edu/sites/artificial-intelligence/news-events/2026/2026-codeathon.html).
 
 * May 2026 - I am excited to be recognized as a Gold Reviewer (top 25 percent) at the [ICML 2026](https://icml.cc/) and getting free registration.
-
-* Apr 2026 - Our paper [Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://arxiv.org/pdf/2506.22427) accepted in [International Conference on Machine Learning (ICML 2026)](https://icml.cc/). This was my summer internship project at Bell-Labs.
 
 * May 2025 - Invited to talk at [Salesforce AI Research](https://www.salesforceairesearch.com/) forum where I presented my research [ReadmeReady](https://joss.theoj.org/papers/10.21105/joss.07489). Read about it [here](https://medium.com/@pidnas94335/readmeready-free-and-customizable-code-documentation-with-llms-a-fine-tuning-approach-fd9fdd2d1ce9)
 
