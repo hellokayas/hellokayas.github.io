@@ -56,8 +56,8 @@ Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
 
 1. <b>[PixRec: Leveraging Visual Context for Next-Item Prediction in Sequential Recommendation](https://link.springer.com/chapter/10.1007/978-3-032-24810-7_46)</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
-<i>[Science and Information Computing Conference 2026](https://saiconference.com/Computing)</i><br>
-<i>Will appear as chapter of [LNNS]()</i>
+<i>[Intelligent Computing Conference 2026](https://saiconference.com/Computing)</i><br>
+<i>Book chapter (pp 763-775) of [Intelligent Computing](https://link.springer.com/book/10.1007/978-3-032-24810-7), part of the Book series [Lecture Notes in Networks and Systems (volume 1951)](https://link.springer.com/series/15179), the [eBook](https://drive.google.com/file/d/1R4PUzWMGi_RPTdqnFNWXpqcnxPdEyItC/view?usp=sharing) ISBN 978-3-032-24810-7 and Print ISBN 978-3-032-24809-1</i>
 
 1. <b>[AI-Driven Prediction of Material Deformation: Stress-Strain Curves Faster Than Crystal Plasticity Finite Element Simulation](https://ieeexplore.ieee.org/document/11471533)</b><br>
 Sayak Chakrabarty, [Shahriyar Keshavarz](https://scholar.google.com/citations?user=6FYL0Z0AAAAJ&hl=en), [Yuwei Mao](https://scholar.google.com/citations?user=4SBeU1gAAAAJ&hl=en), [Andrew Reid](https://www.nist.gov/people/andrew-ce-reid), [Alok Choudhary](https://scholar.google.com/citations?user=6nvFl5sAAAAJ&hl=en) & [Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/)<br>
