@@ -16,6 +16,10 @@ Paper Submitted<br>
 1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
 Paper Submitted<br>
 
+1. <b>Time is the Hidden Budget: Slate Optimization with Value and Policy Based Reinforcement Learning</b><br>
+Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
+<i>[Book Chapter to appear in the Lecture Notes in Computer Science. The expected publication date is December 14, 2026](https://link.springer.com/series/558)</i><br>
+
 1. <b>Stable History, Better Rankings: Invariant Parent Selection with Geodesic Attention for Recommenders</b><br>
 Sayak Chakrabarty, [Souradip Pal](https://souradipp76.github.io/), [Imon Banerjee](https://ibanerj750.github.io/)<br>
 <i>[25th International Conference on Machine Learning and Applications (ICMLA 2026)](https://www.icmla-conference.org/icmla26/)</i>
