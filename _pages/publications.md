@@ -8,7 +8,8 @@ author_profile: true
 Paper Submitted<br>
 
 1. <b>XNano: Using XAI to Explain How Preprocessing Affects Nanoparticle Image Classification</b><br>
-Paper Submitted<br>
+Sayak Chakrabarty, [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/), [Carolin Wahl](https://www.linkedin.com/in/carolin-wahl-ab246537a/), [Roberto dos Reis](https://robertodosreis.com/), [Wei-Keng Liao](https://users.eecs.northwestern.edu/~wkliao/), [Chad Mirkin](https://chemistry.northwestern.edu/people/faculty/profiles/chad-mirkin.html), [Vinayak Dravid](https://chemistry.northwestern.edu/people/faculty/profiles/vinayak-p-dravid.html), [Alok Choudhary](https://www.eecs.northwestern.edu/~choudhar/) & [Ankit Agrawal](https://www.eecs.northwestern.edu/~ankitag/)<br>
+<i>[The 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026)](https://ictai.computer.org/2026/)</i>
 
 1. <b>[Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study](https://arxiv.org/abs/2604.12337)</b><br>
 Paper Submitted<br>
