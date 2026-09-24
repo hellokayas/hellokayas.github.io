@@ -14,8 +14,9 @@ Sayak Chakrabarty, [Youjia Li](https://www.linkedin.com/in/youjia-li-560ba7148/)
 1. <b>[Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study](https://arxiv.org/abs/2604.12337)</b><br>
 Paper Submitted<br>
 
-1. <b>Counting Rare Events Right: Method of Types for Controlled Markov Chains</b><br>
-Paper Submitted<br>
+1. <b>The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification</b><br>
+[Imon Banerjee](https://ibanerj750.github.io/), Sayak Chakrabarty, [Ramkrishna Jyoti Samanta](https://www.linkedin.com/in/ramkrishna-jyoti-samanta-84681a210/), [Riddhiman Bhattacharya](https://scholar.google.com/citations?user=fdyRnbgAAAAJ&hl=en)<br>
+<i>TThe Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</i>
 
 1. <b>Time is the Hidden Budget: Slate Optimization with Value and Policy Based Reinforcement Learning</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>
