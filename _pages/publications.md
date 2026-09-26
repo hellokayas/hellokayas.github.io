@@ -16,7 +16,7 @@ Paper Submitted<br>
 
 1. <b>The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification</b><br>
 [Imon Banerjee](https://ibanerj750.github.io/), Sayak Chakrabarty, [Ramkrishna Jyoti Samanta](https://www.linkedin.com/in/ramkrishna-jyoti-samanta-84681a210/), [Riddhiman Bhattacharya](https://scholar.google.com/citations?user=fdyRnbgAAAAJ&hl=en)<br>
-<i>TThe Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</i>
+<i>The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</i>
 
 1. <b>Time is the Hidden Budget: Slate Optimization with Value and Policy Based Reinforcement Learning</b><br>
 Sayak Chakrabarty,[Souradip Pal](https://souradipp76.github.io/)<br>

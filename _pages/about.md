@@ -12,7 +12,7 @@ I am actively seeking new-grad ML roles in the industry. If you like my profile,
 
 Recent News
 ------
-* Sept 2026 - Our paper The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification has been accepted at NeurIPS 2026!
+* Sept 2026 - Our paper "The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification" has been accepted at NeurIPS 2026!
 
 * August 2026 - First [book chapter](https://link.springer.com/chapter/10.1007/978-3-032-24810-7_46) published: pp 763-775 of [Lecture Notes in Networks and Systems (volume 1951)](https://link.springer.com/series/15179).
 
