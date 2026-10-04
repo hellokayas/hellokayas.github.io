@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am actively seeking new-grad ML roles in the industry. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu
+<!-- I am actively seeking new-grad ML roles in the industry. If you like my profile, please reach out at sayakchakrabarty2025@u.northwestern.edu -->
 
 Recent News
 ------
