@@ -103,12 +103,12 @@ author_profile: true
     <span class="publication-venue"><i><a href="https://link.springer.com/series/558">Book Chapter to appear in the Lecture Notes in Computer Science. The expected publication date is December 14</a></i></span>
   </li>
   <li>
-    <span class="publication-title">Stable History, Better Rankings: Invariant Parent Selection with Geodesic Attention for Recommenders</span>
+    <span class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/11760958">Stable History, Better Rankings: Invariant Parent Selection with Geodesic Attention for Recommenders</a></span>
     <span class="publication-authors">Sayak Chakrabarty, <a href="https://souradipp76.github.io/">Souradip Pal</a>, <a href="https://ibanerj750.github.io/">Imon Banerjee</a></span>
     <span class="publication-venue"><i><a href="https://www.icmla-conference.org/icmla26/">25th International Conference on Machine Learning and Applications (ICMLA)</a></i></span>
   </li>
   <li>
-    <span class="publication-title">Can Vision-Language Models Predict Atomic Structures of 2D Materials?</span>
+    <span class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/11760911">Can Vision-Language Models Predict Atomic Structures of 2D Materials?</a></span>
     <span class="publication-authors">Sayak Chakrabarty, <a href="https://engineering.jhu.edu/faculty/kamal-choudhary/">Kamal Choudhary</a>, <a href="https://www.nist.gov/people/daniel-wines">Daniel Wines</a>, <a href="https://www.linkedin.com/in/youjia-li-560ba7148/">Youjia Li</a>, <a href="https://scholar.google.com/citations?user=964aU-4AAAAJ&amp;hl=en">Vishu Gupta</a>, <a href="https://www.linkedin.com/in/mntalhakilic/">Muhammed Nur Talha Kilic</a>, <a href="https://scholar.google.com/citations?user=6nvFl5sAAAAJ&amp;hl=en">Alok Choudhary</a> & <a href="https://eecs.northwestern.edu/~ankitag/">Ankit Agrawal</a></span>
     <span class="publication-venue"><i><a href="https://www.icmla-conference.org/icmla26/">25th International Conference on Machine Learning and Applications (ICMLA)</a></i></span>
   </li>
