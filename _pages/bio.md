@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021-Present
+* Ph.D in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021-2026
 * Masters in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021- 2023
 * Masters of Mathematics(MMath), [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, [Chennai Mathematical Institute](https://www.cmi.ac.in/), 2018
@@ -70,6 +70,7 @@ Courses Completed at Northwestern
 Served as Reviewer
 ======
 
+* The Association for the Advancement of Artificial Intelligence (AAAI (5))
 * International Conference on Machine Learning (ICML 2026 (5))
 * International Conference on Artificial Neural Networks (ICANN 2026 (4))
 * Uncertainty in Artificial Intelligence (UAI 2026 (4))
