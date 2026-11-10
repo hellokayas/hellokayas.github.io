@@ -12,7 +12,7 @@ redirect_from:
 
 Recent News
 ------
-* Nov 2026 - Successfully defended my PhD Thesis! On my way to graduation in December.
+<!-- * Nov 2026 - Successfully defended my PhD Thesis! On my way to graduation in December. -->
 
 * Sept 2026 - Our paper "The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification" has been accepted at NeurIPS 2026!
 
