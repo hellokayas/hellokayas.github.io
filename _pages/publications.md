@@ -20,7 +20,7 @@ author_profile: true
   padding: 0;
   border: 0;
 }
-.publications-by-year ol {
+/*.publications-by-year ol {
   list-style-type: decimal;
   margin: 0;
   padding-left: 2.5em;
@@ -32,6 +32,25 @@ author_profile: true
 }
 .publications-by-year li::marker {
   content: counter(publication) ". ";
+  color: #777;
+  font-variant-numeric: tabular-nums;
+}*/
+.publications-by-year ol {
+  list-style: none;          /* hide native numbers */
+  margin: 0;
+  padding-left: 2.5em;
+}
+.publications-by-year li {
+  counter-increment: publication;
+  position: relative;
+  padding-left: 0.3em;
+  margin: 0 0 1.15em;
+}
+.publications-by-year li::before {
+  content: counter(publication) ".";
+  position: absolute;
+  right: 100%;               /* sits in the left gutter, right-aligned */
+  margin-right: 0.3em;
   color: #777;
   font-variant-numeric: tabular-nums;
 }
@@ -87,6 +106,11 @@ author_profile: true
 <h2>2026</h2>
 
 <ol start="3">
+    <li>
+    <span class="publication-title">Beyond Dense Attention: Probabilistic Hyperedge Masks and Geometry-Mixed Manifold Attention for Sequential Recommendation</span>
+    <span class="publication-authors">Sayak Chakrabarty, <a href="https://souradipp76.github.io/">Souradip Pal</a>, <a href="https://ibanerj750.github.io/">Imon Banerjee</a></span>
+    <span class="publication-venue"><i><a href="https://icpram.scitevents.org/Home.aspx">16th International Conference on Pattern Recognition Applications and Methods (ICPRAM)</a></i></span>
+  </li>
   <li>
     <span class="publication-title">XNano: Using XAI to Explain How Preprocessing Affects Nanoparticle Image Classification</span>
     <span class="publication-authors">Sayak Chakrabarty, <a href="https://www.linkedin.com/in/youjia-li-560ba7148/">Youjia Li</a>, <a href="https://www.linkedin.com/in/carolin-wahl-ab246537a/">Carolin Wahl</a>, <a href="https://robertodosreis.com/">Roberto dos Reis</a>, <a href="https://users.eecs.northwestern.edu/~wkliao/">Wei-Keng Liao</a>, <a href="https://chemistry.northwestern.edu/people/faculty/profiles/chad-mirkin.html">Chad Mirkin</a>, <a href="https://chemistry.northwestern.edu/people/faculty/profiles/vinayak-p-dravid.html">Vinayak Dravid</a>, <a href="https://www.eecs.northwestern.edu/~choudhar/">Alok Choudhary</a> & <a href="https://www.eecs.northwestern.edu/~ankitag/">Ankit Agrawal</a></span>
