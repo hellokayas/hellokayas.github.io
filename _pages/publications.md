@@ -179,7 +179,7 @@ author_profile: true
   <li>
     <span class="publication-title"><a href="https://www.scitepress.org/Papers/2026/142980/142980.pdf">Time-Constrained Recommendations: Reinforcement Learning Strategies for E-Commerce</a></span>
     <span class="publication-authors">Sayak Chakrabarty, <a href="https://souradipp76.github.io/">Souradip Pal</a></span>
-    <span class="publication-venue"><i><a href="https://icpram.scitevents.org/presentationdetails.aspx">International Conference on Pattern Recognition Applications and Methods</a></i> <i>Will appear as chapter of IC</i></span>
+    <span class="publication-venue"><i><a href="https://icpram.scitevents.org/Home.aspx">15th International Conference on Pattern Recognition Applications and Methods (ICPRAM)</a></i></span>
   </li>
 </ol>
 
