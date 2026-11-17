@@ -106,7 +106,12 @@ author_profile: true
 <h2>2026</h2>
 
 <ol start="3">
-    <li>
+  <li>
+    <span class="publication-title">SoftGeoTimeRec: Geometry and Time-Aware Attention for Sequential Recommendation</span>
+    <span class="publication-authors">Sayak Chakrabarty, <a href="https://souradipp76.github.io/">Souradip Pal</a>, <a href="https://ibanerj750.github.io/">Imon Banerjee</a></span>
+    <span class="publication-venue"><i><a href="https://bigdataieee.org/BigData2026/">IEEE International Conference on Big Data</a></i></span>
+  </li>
+  <li>
     <span class="publication-title">Beyond Dense Attention: Probabilistic Hyperedge Masks and Geometry-Mixed Manifold Attention for Sequential Recommendation</span>
     <span class="publication-authors">Sayak Chakrabarty, <a href="https://souradipp76.github.io/">Souradip Pal</a>, <a href="https://ibanerj750.github.io/">Imon Banerjee</a></span>
     <span class="publication-venue"><i><a href="https://icpram.scitevents.org/Home.aspx">16th International Conference on Pattern Recognition Applications and Methods (ICPRAM)</a></i></span>
