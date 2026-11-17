@@ -94,11 +94,11 @@ author_profile: true
 
 <ol start="1">
   <li>
-    <span class="publication-title">An LLM-Powered Interactive Web-Based Registry Browser for Longitudinal Systemic Sclerosis Electronic Health Record Analysis</span>
+    <span class="publication-title">Lost in Aggregation: Request-Conditioned Identifiability for Scientific Chart Editing</span>
     <span class="publication-venue">Paper Submitted</span>
   </li>
   <li>
-    <span class="publication-title"><a href="https://arxiv.org/abs/2604.12337">Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study</a></span>
+    <span class="publication-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7264338">Blinding Gender: An Algorithmic Bias Experiment</a></span>
     <span class="publication-venue">Paper Submitted</span>
   </li>
 </ol>
@@ -106,6 +106,16 @@ author_profile: true
 <h2>2026</h2>
 
 <ol start="3">
+  <li>
+    <span class="publication-title">Early Prediction of Prolonged Respiratory Failure in Mechanically Ventilated ICU Patients</span>
+    <span class="publication-authors">Sayak Chakrabarty, <a href="https://www.linkedin.com/in/wan-ting-liao/">Wan-Ting Liao</a>, <a href="https://orcid.org/0009-0003-3555-111X">Dema Palathingal</a>, <a href="https://www.linkedin.com/in/kaverichhikara">Kaveri Chhikara</a>, <a href="https://www.uchicagomedicine.org/find-a-physician/physician/william-parker">William Parker</a>, <a href="https://www.eecs.northwestern.edu/~choudhar/">Alok Choudhary</a>, <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=56060">Catherine Gao</a>, <a href="https://www.eecs.northwestern.edu/~ankitag/">Ankit Agrawal</a></span>
+    <span class="publication-venue"><i><a href="https://bigdataieee.org/BigData2026/">IEEE International Conference on Big Data</a></i></span>
+  </li>
+  <li>
+    <span class="publication-title">An Interactive Web-Based Registry Browser with LLM-Assisted Natural-Language Querying for Longitudinal Systemic Sclerosis Electronic Health Record Analysis</span>
+    <span class="publication-authors">Sayak Chakrabarty, <a href="https://www.linkedin.com/in/luisa-cusick-784909132">Luisa Cusick</a>, <a href="https://www.linkedin.com/in/youjia-li-560ba7148/">Youjia Li</a>, <a href="https://www.linkedin.com/in/mary-carns-674b465/">Mary Carns</a>, Kathleen Aren, <a href="https://www.nm.org/doctors/1033373709/bradford-c-bemiss-md">Bradford Bemiss</a>, <a href="https://www.nm.org/doctors/1770900185/anthony-j-esposito-md">Anthony Esposito</a>, <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=10309">Scott Budinger</a>, <a href="https://www.eecs.northwestern.edu/~choudhar/">Alok Choudhary</a>, <a href="https://www.eecs.northwestern.edu/~ankitag/">Ankit Agrawal</a>, <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=56060">Catherine Gao</a>, <a href="https://scholar.google.com/citations?user=097bElAAAAAJ&hl=en">Alexander Misharin</a>, <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=54554">Carrie Richardson</a></span>
+    <span class="publication-venue"><i><a href="https://bigdataieee.org/BigData2026/">IEEE International Conference on Big Data</a></i></span>
+  </li>
   <li>
     <span class="publication-title">SoftGeoTimeRec: Geometry and Time-Aware Attention for Sequential Recommendation</span>
     <span class="publication-authors">Sayak Chakrabarty, <a href="https://souradipp76.github.io/">Souradip Pal</a>, <a href="https://ibanerj750.github.io/">Imon Banerjee</a></span>
