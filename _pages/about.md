@@ -12,9 +12,9 @@ redirect_from:
 
 Recent News
 ------
-<!-- * Nov 2026 - Successfully defended my PhD Thesis! On my way to graduation in December. -->
+* Nov 2026 - Successfully defended my PhD Thesis! On my way to graduation in December.
 
-* Sept 2026 - Our paper "The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification" has been accepted at NeurIPS 2026!
+* Nov 2026 - Three of my papers have been accepted at IEEE Big Data 2026 conference!
 
 * August 2026 - First [book chapter](https://link.springer.com/chapter/10.1007/978-3-032-24810-7_46) published: pp 763-775 of [Lecture Notes in Networks and Systems (volume 1951)](https://link.springer.com/series/15179).
 

@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Full Time Work Experience
+======
+* Incoming Machine Learning Engineer II at LinkedIn (Ads AI team, San Francisco Bay Area), 2027 start
+
 Education
 ======
 * Ph.D in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021-2026
+  * Thesis: Machine Learning Applications in Material Sciences: Prediction, Explainability, and Automation - [Slides](https://docs.google.com/presentation/d/1FG9sq-ee2STZMQ0aJRGK1n9xbtqMv4hH/edit?usp=sharing&ouid=116938262836344448183&rtpof=true&sd=true)
 * Masters in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021- 2023
 * Masters of Mathematics(MMath), [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), 2020
 * Bachelors of Science(hons) in Mathematics and Computer Science, [Chennai Mathematical Institute](https://www.cmi.ac.in/), 2018
