@@ -17,9 +17,14 @@ Education
 ======
 * Ph.D in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021-2026
   * Thesis: Machine Learning Applications in Material Sciences: Prediction, Explainability, and Automation - [Slides](https://docs.google.com/presentation/d/1FG9sq-ee2STZMQ0aJRGK1n9xbtqMv4hH/edit?usp=sharing&ouid=116938262836344448183&rtpof=true&sd=true)
+  * Advisers: [Prof. Alok Choudhary](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/choudhary-alok.html) and [Prof. Ankit Agrawal](https://eecs.northwestern.edu/~ankitag/); [Photo](https://drive.google.com/file/d/1oxIR_IPvvzFrBAe1TGFZbKqsD-Mqr78f/view?usp=sharing)
 * Masters in Computer Science, [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), 2021- 2023
 * Masters of Mathematics(MMath), [Indian Statistical Institute](https://www.isical.ac.in/content/statistics-mathematics), 2020
+  * Masters Project: Markov Chains & Monte Carlo Methods and FPRAS for bipartite graphs. Notes used are [here](https://www.springer.com/gp/book/9783764369460) and [here](https://people.eecs.berkeley.edu/~sinclair/perm.pdf)
+  * Adviser: [Sourav Chakraborty](https://www.isical.ac.in/~sourav/),ISI Kolkata
 * Bachelors of Science(hons) in Mathematics and Computer Science, [Chennai Mathematical Institute](https://www.cmi.ac.in/), 2018
+  * Undergraduate Project: Project: Analytic Number Theory, [Paper/Report](https://www.researchgate.net/publication/316596873_The_Repeated_Divisor_Function_and_Possible_Correlation_with_Highly_Composite_Numbers)
+  * Adviser:  Adviser: [Ramachandran Balasubramanian](https://www.imsc.res.in/~balu/), [IMSc](https://www.imsc.res.in/)
 * High School Education from [South Point High School](https://southpoint.ac.in/), 2015
 * Fun Fact: My Erdos number is 3. Erdos -> Noga Alon -> K. Makarychev -> MEEEEE!! You can find yours from [here](https://www.csauthors.net/distance/paul-erdos/sayak-chakrabarty)
 
@@ -92,16 +97,6 @@ Served as Reviewer
 * Integrating Materials and Manufacturing Innovation Journal
 * Served as judge for programming contest [HackDartmouth 2021](https://hackdartmouth-virtual.devpost.com/)
 
-Master's Project
-======
-* Adviser: [Sourav Chakraborty](https://www.isical.ac.in/~sourav/),ISI Kolkata
-* Markov Chains & Monte Carlo Methods and FPRAS for bipartite graphs. Notes used are [here](https://www.springer.com/gp/book/9783764369460) and [here](https://people.eecs.berkeley.edu/~sinclair/perm.pdf).
-
-Undergraduate Project
-======
-* Adviser: [Ramachandran Balasubramanian](https://www.imsc.res.in/~balu/), [IMSc](https://www.imsc.res.in/)
-* Project: Analytic Number Theory
-
 Honors and Awards
 ======
 
@@ -134,6 +129,9 @@ Teaching Assistantships
 Talks
 ======
 
+* 2026 - Poster Presentation at IEEE Big Data 2026
+* 2026 - Paper Presentation at Rev-AI 2026
+* 2026 - Poster Presentation at ICMLA 2026
 * 2025 - ReadmeReady: Free and Customizable Code Documentation with LLMs, Venue: Salesforce AI Research Future Forum
 * 2025 - Poster Presentation at ICMLA 2025
 * 2023 - Poster Presentation at NeurIPS 2023
